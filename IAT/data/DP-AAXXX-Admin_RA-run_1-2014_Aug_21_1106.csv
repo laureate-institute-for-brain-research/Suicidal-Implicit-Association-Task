@@ -1,9 +1,0 @@
-Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\data/DP-AAXXX-Admin_RA-run_1-2014_Aug_21_1106.csv,Time:,2014_Aug_21_1106,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\T1000_DP_Schedule1.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('TRIAL_ONSET', 3), ('CUE_ONSET', 4), ('IMAGE_ONSET', 5), ('TARGET_ONSET', 6), ('RESPONSE', 7), ('ERROR_DELAY', 8), ('BREAK_ONSET', 9), ('BREAK_END', 10)],Trial Types are coded as follows: 8 bits representing [valence neut/neg/pos] [target_orientation H/V] [target_side left/right] [duration .5/1] [valenced_image left/right] [cue_orientation H/V] [cue_side left/right]
-trial_number,trial_type,event_code,absolute_time,response_time,response,result
-NA,NA,1,-0.004415257863,NA,NA,NA
-NA,NA,2,5.87520940098,5.87962465884,NA,NA
-0,1010100,3,5.89200470046,NA,NA,NA
-0,1010100,4,6.89375921197,NA,NA,NA
-0,1010100,5,7.0939639715,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A2.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/177.bmp
-0,1010100,6,7.59498591601,NA,NA,NA
-0,1010100,7,8.41183190645,0.816845990439,1,1
