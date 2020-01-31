@@ -1,0 +1,1942 @@
+Original File Name:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\data/DP-RTK-Admin_RA-run_1-2014_Aug_05_1047.csv,Time:,2014_Aug_05_1047,Parameter File:,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\T1000_DP_Schedule1.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('TRIAL_ONSET', 3), ('CUE_ONSET', 4), ('IMAGE_ONSET', 5), ('TARGET_ONSET', 6), ('RESPONSE', 7), ('ERROR_DELAY', 8), ('BREAK_ONSET', 9), ('BREAK_END', 10)],Trial Types are coded as follows: 8 bits representing [valence neut/neg/pos] [target_orientation H/V] [target_side left/right] [duration .5/1] [valenced_image left/right] [cue_orientation H/V] [cue_side left/right]
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,-0.00499560050957,NA,NA,NA
+NA,NA,2,5.21744313381,5.22243873432,NA,NA
+0,10101001,3,5.2375150875,NA,NA,NA
+0,10101001,4,6.24274498485,NA,NA,NA
+0,10101001,5,6.44316169017,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2120.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A307.bmp
+0,10101001,6,7.44857709947,NA,NA,NA
+0,10101001,7,9.15727530047,1.70869820101,-1,1
+1,1011100,3,10.1818358369,NA,NA,NA
+1,1011100,4,11.1971002447,NA,NA,NA
+1,1011100,5,11.3970267731,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A255.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/112.bmp
+1,1011100,6,12.3868866749,NA,NA,NA
+1,1011100,7,13.0749233902,0.688036715233,-1,1
+2,1110011,3,14.1015934835,NA,NA,NA
+2,1110011,4,15.1084999544,NA,NA,NA
+2,1110011,5,15.3083824879,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1111.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A135.bmp
+2,1110011,6,16.307021578,NA,NA,NA
+2,1110011,7,17.1542279183,0.847206340259,-1,1
+3,10100,3,18.177710579,NA,NA,NA
+3,10100,4,19.1840348502,NA,NA,NA
+3,10100,5,19.3840134394,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A250.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/015.bmp
+3,10100,6,19.8831150262,NA,NA,NA
+3,10100,7,20.8549469054,0.971831879229,1,1
+4,1001000,3,21.8842229652,NA,NA,NA
+4,1001000,4,22.8900731911,NA,NA,NA
+4,1001000,5,23.090412172,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/135.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A271.bmp
+4,1001000,6,24.0892716034,NA,NA,NA
+4,1001000,7,24.9463350078,0.857063404401,1,1
+5,1011011,3,25.9750754293,NA,NA,NA
+5,1011011,4,26.9814891569,NA,NA,NA
+5,1011011,5,27.1814384161,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/188.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A384.bmp
+5,1011011,6,27.6805187387,NA,NA,NA
+5,1011011,7,28.7563927622,1.07587402345,1,1
+6,10111,3,29.7990891088,NA,NA,NA
+6,10111,4,30.805404581,NA,NA,NA
+6,10111,5,31.0053314761,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A312.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/069.bmp
+6,10111,6,32.0035291505,NA,NA,NA
+6,10111,7,32.6261501705,0.622621019967,-1,1
+7,1001010,3,33.659992904,NA,NA,NA
+7,1001010,4,34.6702858846,NA,NA,NA
+7,1001010,5,34.8759669499,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/110.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A104.bmp
+7,1001010,6,35.3649625346,NA,NA,NA
+7,1001010,7,36.1302143855,0.765251850811,-1,1
+8,1100100,3,37.1587263999,NA,NA,NA
+8,1100100,4,38.1646884462,NA,NA,NA
+8,1100100,5,38.3650413589,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A77.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/14.bmp
+8,1100100,6,38.8638309484,NA,NA,NA
+8,1100100,7,39.6805352368,0.816704288445,-1,1
+9,1000111,3,40.7048706659,NA,NA,NA
+9,1000111,4,41.7111131799,NA,NA,NA
+9,1000111,5,41.9112270534,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A63.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/145.bmp
+9,1000111,6,42.9099742978,NA,NA,NA
+9,1000111,7,43.5520744398,0.642100141995,-1,1
+10,10010000,3,44.5777223843,NA,NA,NA
+10,10010000,4,45.5843384886,NA,NA,NA
+10,10010000,5,45.7846598715,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/222.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A60.bmp
+10,10010000,6,46.2828874258,NA,NA,NA
+10,10010000,7,47.009460767,0.726573341191,-1,1
+11,110111,3,48.0342460442,NA,NA,NA
+11,110111,4,49.0400412764,NA,NA,NA
+11,110111,5,49.240276136,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A49.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/053.bmp
+11,110111,6,50.239246288,NA,NA,NA
+11,110111,7,51.0924374053,0.85319111729,1,1
+12,10100110,3,52.1208687624,NA,NA,NA
+12,10100110,4,53.1262163462,NA,NA,NA
+12,10100110,5,53.326535896,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A29.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/272.bmp
+12,10100110,6,54.3254440885,NA,NA,NA
+12,10100110,7,55.3275448464,1.00210075792,1,1
+13,110,3,56.3515657117,NA,NA,NA
+13,110,4,57.3574207037,NA,NA,NA
+13,110,5,57.557325968,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A143.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/052.bmp
+13,110,6,58.5565927191,NA,NA,NA
+13,110,7,59.413408652,0.856815932901,-1,1
+14,1100011,3,60.4417762165,NA,NA,NA
+14,1100011,4,61.4475861137,NA,NA,NA
+14,1100011,5,61.6479661565,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/140.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A52.bmp
+14,1100011,6,62.6467441973,NA,NA,NA
+14,1100011,7,63.3521867735,0.705442576174,-1,1
+15,10110111,3,64.3774622276,NA,NA,NA
+15,10110111,4,65.3837505696,NA,NA,NA
+15,10110111,5,65.5837119274,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A292.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/22.bmp
+15,10110111,6,66.5829156192,NA,NA,NA
+15,10110111,7,67.5273588212,0.944443201995,1,1
+16,1001001,3,68.5567939959,NA,NA,NA
+16,1001001,4,69.5629873822,NA,NA,NA
+16,1001001,5,69.7628761484,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/199.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A242.bmp
+16,1001001,6,70.7620013825,NA,NA,NA
+16,1001001,7,72.0985193378,1.33651795525,1,1
+17,10000010,3,73.1220709239,NA,NA,NA
+17,10000010,4,74.1298866232,NA,NA,NA
+17,10000010,5,74.3376794452,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2127.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A78.bmp
+17,10000010,6,75.3368956022,NA,NA,NA
+17,10000010,7,76.1070363897,0.770140787441,1,1
+18,10000,3,77.1354600476,NA,NA,NA
+18,10000,4,78.141265912,NA,NA,NA
+18,10000,5,78.3412620991,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/027.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A251.bmp
+18,10000,6,78.8404256455,NA,NA,NA
+18,10000,7,79.8966804963,1.05625485089,-1,1
+19,10011101,3,80.9203226386,NA,NA,NA
+19,10011101,4,81.9280221181,NA,NA,NA
+19,10011101,5,82.128456788,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A80.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/246.bmp
+19,10011101,6,83.1303199733,NA,NA,NA
+19,10011101,7,84.1508216108,1.02050163753,-1,1
+20,1010001,3,85.1745961045,NA,NA,NA
+20,1010001,4,86.1810439282,NA,NA,NA
+20,1010001,5,86.3806830231,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/121.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A10.bmp
+20,1010001,6,86.8799323596,NA,NA,NA
+20,1010001,7,87.6272526101,0.747320250463,-1,1
+21,100011,3,88.6641999192,NA,NA,NA
+21,100011,4,89.6700666432,NA,NA,NA
+21,100011,5,89.8700276343,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/095.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A291.bmp
+21,100011,6,90.8688452706,NA,NA,NA
+21,100011,7,91.4629410776,0.594095807028,-1,1
+22,1011110,3,92.4867372021,NA,NA,NA
+22,1011110,4,93.4928928262,NA,NA,NA
+22,1011110,5,93.6931680144,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A311.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/142.bmp
+22,1011110,6,94.1921178188,NA,NA,NA
+22,1011110,7,94.9274329526,0.735315133847,-1,1
+23,1100110,3,95.9551086968,NA,NA,NA
+23,1100110,4,96.9609757874,NA,NA,NA
+23,1100110,5,97.1611805838,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A347.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/194.bmp
+23,1100110,6,98.160120306,NA,NA,NA
+23,1100110,7,99.2975106074,1.13739030139,1,1
+24,1100011,3,100.321027364,NA,NA,NA
+24,1100011,4,101.336806146,NA,NA,NA
+24,1100011,5,101.527295762,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1108.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A266.bmp
+24,1100011,6,102.526124397,NA,NA,NA
+24,1100011,7,103.303934234,0.777809837047,-1,1
+25,1100111,3,104.328233,NA,NA,NA
+25,1100111,4,105.334750849,NA,NA,NA
+25,1100111,5,105.534307454,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A346.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/165.bmp
+25,1100111,6,106.5336182,NA,NA,NA
+25,1100111,7,107.912003197,1.37838499744,1,1
+26,111100,3,108.935332976,NA,NA,NA
+26,111100,4,109.941578789,NA,NA,NA
+26,111100,5,110.141486253,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A300.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/047.bmp
+26,111100,6,111.140765836,NA,NA,NA
+26,111100,7,112.663656582,1.52289074556,1,1
+27,1101011,3,113.69719685,NA,NA,NA
+27,1101011,4,114.712457225,NA,NA,NA
+27,1101011,5,114.902799091,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/173.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A148.bmp
+27,1101011,6,115.401780059,NA,NA,NA
+27,1101011,7,116.328848196,0.92706813752,1,1
+28,1000011,3,117.352821034,NA,NA,NA
+28,1000011,4,118.359142739,NA,NA,NA
+28,1000011,5,118.559167522,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/17.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A115.bmp
+28,1000011,6,119.558168104,NA,NA,NA
+28,1000011,7,120.64739019,1.08922208531,1,1
+29,1011101,3,121.681010749,NA,NA,NA
+29,1011101,4,122.689885259,NA,NA,NA
+29,1011101,5,122.890182445,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A194.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1126.bmp
+29,1011101,6,123.892038665,NA,NA,NA
+29,1011101,7,124.553873832,0.661835167863,-1,1
+30,110010,3,125.600837321,NA,NA,NA
+30,110010,4,126.607684032,NA,NA,NA
+30,110010,5,126.80717611,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/023.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A280.bmp
+30,110010,6,127.805297527,NA,NA,NA
+30,110010,7,129.404930462,1.59963293564,-1,1
+31,1010,3,130.428266473,NA,NA,NA
+31,1010,4,131.434485523,NA,NA,NA
+31,1010,5,131.634406919,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/094.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A219.bmp
+31,1010,6,132.13370135,NA,NA,NA
+31,1010,7,132.81837062,0.684669269947,-1,1
+32,111,3,133.844564835,NA,NA,NA
+32,111,4,134.850545579,NA,NA,NA
+32,111,5,135.050391084,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A216.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0128.bmp
+32,111,6,136.049918872,NA,NA,NA
+32,111,7,136.737747711,0.687828839189,-1,1
+33,11101,3,137.777665777,NA,NA,NA
+33,11101,4,138.784164195,NA,NA,NA
+33,11101,5,138.993132782,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A152.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/036.bmp
+33,11101,6,139.982782974,NA,NA,NA
+33,11101,7,141.21256043,1.2297774553,-1,1
+34,1101101,3,142.236760941,NA,NA,NA
+34,1101101,4,143.246321039,NA,NA,NA
+34,1101101,5,143.446371487,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A287.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/113.bmp
+34,1101101,6,144.442160805,NA,NA,NA
+34,1101101,7,145.968891942,1.52673113636,1,1
+35,11010,3,146.99288421,NA,NA,NA
+35,11010,4,147.999086396,NA,NA,NA
+35,11010,5,148.199218601,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/096.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A32.bmp
+35,11010,6,148.698118911,NA,NA,NA
+35,11010,7,149.785431983,1.08731307196,1,1
+36,110100,3,150.818674185,NA,NA,NA
+36,110100,4,151.834156368,NA,NA,NA
+36,110100,5,152.024551395,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A102.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/071.bmp
+36,110100,6,152.523374347,NA,NA,NA
+36,110100,7,153.307420099,0.784045751803,-1,1
+37,1111000,3,154.33413602,NA,NA,NA
+37,1111000,4,155.340415563,NA,NA,NA
+37,1111000,5,155.540381687,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/184.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A248.bmp
+37,1111000,6,156.539443495,NA,NA,NA
+37,1111000,7,157.493128566,0.953685070359,-1,1
+38,1000100,3,158.516475209,NA,NA,NA
+38,1000100,4,159.53213777,NA,NA,NA
+38,1000100,5,159.722478537,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A23.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1106.bmp
+38,1000100,6,160.221678379,NA,NA,NA
+38,1000100,7,161.231134723,1.00945634364,1,1
+39,1001011,3,162.254420139,NA,NA,NA
+39,1001011,4,163.260728279,NA,NA,NA
+39,1001011,5,163.460853152,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/144.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A79.bmp
+39,1001011,6,163.959888379,NA,NA,NA
+39,1001011,7,164.892292369,0.932403989325,-1,1
+40,101110,3,165.91617685,NA,NA,NA
+40,101110,4,166.925055027,NA,NA,NA
+40,101110,5,167.125446068,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A288.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0112.bmp
+40,101110,6,167.626633015,NA,NA,NA
+40,101110,7,168.448020197,0.82138718215,-1,1
+41,101010,3,169.47194244,NA,NA,NA
+41,101010,4,170.488650615,NA,NA,NA
+41,101010,5,170.682260938,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0122.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A26.bmp
+41,101010,6,171.177236534,NA,NA,NA
+41,101010,7,172.13928724,0.962050706352,1,1
+42,111101,3,173.162907385,NA,NA,NA
+42,111101,4,174.172449885,NA,NA,NA
+42,111101,5,174.372901053,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A315.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/081.bmp
+42,111101,6,175.368392673,NA,NA,NA
+42,111101,7,176.395859808,1.02746713487,1,1
+43,11001,3,177.419168322,NA,NA,NA
+43,11001,4,178.425330912,NA,NA,NA
+43,11001,5,178.625306568,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/067.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A376.bmp
+43,11001,6,179.62439074,NA,NA,NA
+43,11001,7,180.852462658,1.22807191851,1,1
+44,1101010,3,181.876476924,NA,NA,NA
+44,1101010,4,182.882559957,NA,NA,NA
+44,1101010,5,183.08294,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1127.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A196.bmp
+44,1101010,6,183.581839943,NA,NA,NA
+44,1101010,7,184.589429802,1.00758985872,1,1
+45,10000111,3,185.622515089,NA,NA,NA
+45,10000111,4,186.629924935,NA,NA,NA
+45,10000111,5,186.830354839,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A353.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/249.bmp
+45,10000111,6,187.832123802,NA,NA,NA
+45,10000111,7,188.858814426,1.02669062435,-1,1
+46,10101110,3,189.886333622,NA,NA,NA
+46,10101110,4,190.891798526,NA,NA,NA
+46,10101110,5,191.091843107,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A339.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2102.bmp
+46,10101110,6,191.591003721,NA,NA,NA
+46,10101110,7,192.307093803,0.716090082555,-1,1
+47,101111,3,193.330646856,NA,NA,NA
+47,101111,4,194.336774983,NA,NA,NA
+47,101111,5,194.537041005,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A61.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/038.bmp
+47,101111,6,195.035960747,NA,NA,NA
+47,101111,7,195.7363978,0.700437052961,-1,1
+48,10110001,3,196.759888893,NA,NA,NA
+48,10110001,4,197.775440001,NA,NA,NA
+48,10110001,5,197.968164192,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/227.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A158.bmp
+48,10110001,6,198.474784879,NA,NA,NA
+48,10110001,7,199.442912386,0.968127506101,1,1
+49,10100001,3,200.467145526,NA,NA,NA
+49,10100001,4,201.474907332,NA,NA,NA
+49,10100001,5,201.675642634,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/266.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A207.bmp
+49,10100001,6,202.184901184,NA,NA,NA
+49,10100001,7,203.20341645,1.01851526642,1,1
+50,110010,3,204.230402207,NA,NA,NA
+50,110010,4,205.236632623,NA,NA,NA
+50,110010,5,205.436440365,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/020.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A324.bmp
+50,110010,6,206.435548001,NA,NA,NA
+50,110010,7,207.106199386,0.67065138527,-1,1
+51,10100010,3,208.130444992,NA,NA,NA
+51,10100010,4,209.139696759,NA,NA,NA
+51,10100010,5,209.346905549,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2124.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A268.bmp
+51,10100010,6,210.335760166,NA,NA,NA
+51,10100010,7,211.096304193,0.760544026634,-1,1
+52,10100100,3,212.120414148,NA,NA,NA
+52,10100100,4,213.130710428,NA,NA,NA
+52,10100100,5,213.33109707,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A200.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/27.bmp
+52,10100100,6,213.826103463,NA,NA,NA
+52,10100100,7,214.950728268,1.12462480574,-1,1
+53,10001001,3,215.974660044,NA,NA,NA
+53,10001001,4,216.980794037,NA,NA,NA
+53,10001001,5,217.18074073,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/225.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A92.bmp
+53,10001001,6,218.18018566,NA,NA,NA
+53,10001001,7,218.946801354,0.766615693661,1,1
+54,10110111,3,219.970939173,NA,NA,NA
+54,10110111,4,220.979192255,NA,NA,NA
+54,10110111,5,221.179875863,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A3.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/288.bmp
+54,10110111,6,222.18163346,NA,NA,NA
+54,10110111,7,222.863724627,0.682091167037,1,1
+55,1001,3,223.890076124,NA,NA,NA
+55,1001,4,224.896169055,NA,NA,NA
+55,1001,5,225.09612418,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0119.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A100.bmp
+55,1001,6,226.097565014,NA,NA,NA
+55,1001,7,227.391911629,1.29434661478,1,1
+56,10,3,228.420964415,NA,NA,NA
+56,10,4,229.436413601,NA,NA,NA
+56,10,5,229.629160524,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/022.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A184.bmp
+56,10,6,230.631199322,NA,NA,NA
+56,10,7,231.566818607,0.935619285476,1,1
+57,111,3,232.591253025,NA,NA,NA
+57,111,4,233.59757693,NA,NA,NA
+57,111,5,233.802699993,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A225.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/056.bmp
+57,111,6,234.79587088,NA,NA,NA
+57,111,7,235.587414101,0.791543221174,-1,1
+58,1111,3,236.630533532,NA,NA,NA
+58,1111,4,237.636529674,NA,NA,NA
+58,1111,5,237.836550792,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A59.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/039.bmp
+58,1111,6,238.335826525,NA,NA,NA
+58,1111,7,239.343476511,1.00764998513,1,1
+59,10110110,3,240.370752267,NA,NA,NA
+59,10110110,4,241.380076993,NA,NA,NA
+59,10110110,5,241.576077707,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A360.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/282.bmp
+59,10110110,6,242.575381854,NA,NA,NA
+59,10110110,7,243.925152182,1.34977032813,1,1
+60,11010,3,244.948733465,NA,NA,NA
+60,11010,4,245.955262679,NA,NA,NA
+60,11010,5,246.154941736,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/099.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A176.bmp
+60,11010,6,246.654406648,NA,NA,NA
+60,11010,7,247.525033322,0.870626674776,1,1
+61,1111001,3,248.554075476,NA,NA,NA
+61,1111001,4,249.560054754,NA,NA,NA
+61,1111001,5,249.760388968,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1124.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A189.bmp
+61,1111001,6,250.759147578,NA,NA,NA
+61,1111001,7,251.48643877,0.727291191812,-1,1
+62,10011001,3,252.511020937,NA,NA,NA
+62,10011001,4,253.517354374,NA,NA,NA
+62,10011001,5,253.717447717,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2100.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A31.bmp
+62,10011001,6,254.717521041,NA,NA,NA
+62,10011001,7,255.717221876,0.99970083448,1,1
+63,10101010,3,256.74108326,NA,NA,NA
+63,10101010,4,257.750098921,NA,NA,NA
+63,10101010,5,257.957852514,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/243.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A4.bmp
+63,10101010,6,258.451327149,NA,NA,NA
+63,10101010,7,259.957087735,1.50576058618,1,1
+63,NA,9,260.967179806,NA,NA,NA
+63,NA,10,287.732396827,26.7652170215,1,NA
+64,1010011,3,288.7430436,NA,NA,NA
+64,1010011,4,289.748797404,NA,NA,NA
+64,1010011,5,289.948903212,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1104.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A348.bmp
+64,1010011,6,290.947944489,NA,NA,NA
+64,1010011,7,291.694748899,0.746804409893,1,1
+65,100000,3,292.727753896,NA,NA,NA
+65,100000,4,293.73625115,NA,NA,NA
+65,100000,5,293.9362763,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0106.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A149.bmp
+65,100000,6,294.437745548,NA,NA,NA
+65,100000,7,295.392786028,0.955040480825,1,1
+66,10011111,3,296.416959776,NA,NA,NA
+66,10011111,4,297.426727017,NA,NA,NA
+66,10011111,5,297.632353822,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A211.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/236.bmp
+66,10011111,6,298.13162479,NA,NA,NA
+66,10011111,7,298.804595074,0.672970284722,-1,1
+67,1111100,3,299.841355772,NA,NA,NA
+67,1111100,4,300.850515516,NA,NA,NA
+67,1111100,5,301.049970199,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A341.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1116.bmp
+67,1111100,6,302.051987733,NA,NA,NA
+67,1111100,7,303.32141122,1.26942348677,1,1
+68,10110010,3,304.34518938,NA,NA,NA
+68,10110010,4,305.351254448,NA,NA,NA
+68,10110010,5,305.551248802,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/240.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A259.bmp
+68,10110010,6,306.550486223,NA,NA,NA
+68,10110010,7,307.231828743,0.681342519965,-1,1
+69,1110010,3,308.255746587,NA,NA,NA
+69,1110010,4,309.271149945,NA,NA,NA
+69,1110010,5,309.471014147,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/13.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A306.bmp
+69,1110010,6,310.460707235,NA,NA,NA
+69,1110010,7,311.173395776,0.712688541185,-1,1
+70,1100010,3,312.198328436,NA,NA,NA
+70,1100010,4,313.207104692,NA,NA,NA
+70,1100010,5,313.407245329,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1105.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A301.bmp
+70,1100010,6,314.409505568,NA,NA,NA
+70,1100010,7,315.275746315,0.866240746851,-1,1
+71,1001100,3,316.312834042,NA,NA,NA
+71,1001100,4,317.31883935,NA,NA,NA
+71,1001100,5,317.518842136,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A12.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/185.bmp
+71,1001100,6,318.518031163,NA,NA,NA
+71,1001100,7,319.632393051,1.11436188837,-1,1
+72,0,3,320.658691754,NA,NA,NA
+72,0,4,321.665054154,NA,NA,NA
+72,0,5,321.865037143,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/026.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A129.bmp
+72,0,6,322.36442103,NA,NA,NA
+72,0,7,323.138547759,0.774126728138,-1,1
+73,10101,3,324.17197584,NA,NA,NA
+73,10101,4,325.179801805,NA,NA,NA
+73,10101,5,325.380415754,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A329.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/02.bmp
+73,10101,6,325.881207113,NA,NA,NA
+73,10101,7,326.778861706,0.897654593602,1,1
+74,10011100,3,327.806175959,NA,NA,NA
+74,10011100,4,328.812367512,NA,NA,NA
+74,10011100,5,329.012153257,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A369.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/267.bmp
+74,10011100,6,330.011460337,NA,NA,NA
+74,10011100,7,330.723348903,0.711888566701,-1,1
+75,10000110,3,331.747238884,NA,NA,NA
+75,10000110,4,332.753603484,NA,NA,NA
+75,10000110,5,332.953330568,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A96.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/294.bmp
+75,10000110,6,333.952585221,NA,NA,NA
+75,10000110,7,334.736387167,0.783801946556,-1,1
+76,1010010,3,335.760615909,NA,NA,NA
+76,1010010,4,336.769071001,NA,NA,NA
+76,1010010,5,336.969250501,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/16.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A182.bmp
+76,1010010,6,337.975146921,NA,NA,NA
+76,1010010,7,340.380092391,2.40494547012,1,1
+77,1011100,3,341.403616114,NA,NA,NA
+77,1011100,4,342.419394529,NA,NA,NA
+77,1011100,5,342.613368177,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A374.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/131.bmp
+77,1011100,6,343.608925055,NA,NA,NA
+77,1011100,7,344.315907454,0.706982398726,-1,1
+78,111100,3,345.34111215,NA,NA,NA
+78,111100,4,346.34796326,NA,NA,NA
+78,111100,5,346.552611178,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A44.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0100.bmp
+78,111100,6,347.546437223,NA,NA,NA
+78,111100,7,349.120277764,1.57384054111,1,1
+79,10110011,3,350.153946717,NA,NA,NA
+79,10110011,4,351.163338902,NA,NA,NA
+79,10110011,5,351.36373031,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/270.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A257.bmp
+79,10110011,6,352.359371146,NA,NA,NA
+79,10110011,7,353.19474175,0.835370604123,-1,1
+80,10100110,3,354.224154927,NA,NA,NA
+80,10100110,4,355.230287454,NA,NA,NA
+80,10100110,5,355.430224248,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A21.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/286.bmp
+80,10100110,6,356.429370746,NA,NA,NA
+80,10100110,7,359.067311901,2.63794115459,1,1
+81,1101111,3,360.091425889,NA,NA,NA
+81,1101111,4,361.107076718,NA,NA,NA
+81,1101111,5,361.307853815,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A54.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1114.bmp
+81,1101111,6,361.800363862,NA,NA,NA
+81,1101111,7,362.521526927,0.721163064649,-1,1
+82,100,3,363.545550725,NA,NA,NA
+82,100,4,364.555668092,NA,NA,NA
+82,100,5,364.75617902,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A351.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/013.bmp
+82,100,6,365.250871948,NA,NA,NA
+82,100,7,366.669021764,1.4181498152,1,1
+83,10111010,3,367.695080694,NA,NA,NA
+83,10111010,4,368.701059972,NA,NA,NA
+83,10111010,5,368.900906576,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/237.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A140.bmp
+83,10111010,6,369.400128416,NA,NA,NA
+83,10111010,7,370.217965574,0.817837157898,-1,1
+84,11110,3,371.242032267,NA,NA,NA
+84,11110,4,372.248094768,NA,NA,NA
+84,11110,5,372.448008832,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A375.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/080.bmp
+84,11110,6,372.947463844,NA,NA,NA
+84,11110,7,373.653619872,0.706156027285,-1,1
+85,10111101,3,374.69661575,NA,NA,NA
+85,10111101,4,375.70223097,NA,NA,NA
+85,10111101,5,375.90217143,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A34.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/25.bmp
+85,10111101,6,376.901257802,NA,NA,NA
+85,10111101,7,377.792338087,0.89108028452,1,1
+86,1001111,3,378.821111138,NA,NA,NA
+86,1001111,4,379.827352919,NA,NA,NA
+86,1001111,5,380.027310977,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A185.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/191.bmp
+86,1001111,6,380.526480389,NA,NA,NA
+86,1001111,7,381.357679541,0.831199151478,1,1
+87,1100000,3,382.381155602,NA,NA,NA
+87,1100000,4,383.392184764,NA,NA,NA
+87,1100000,5,383.592321369,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/154.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A334.bmp
+87,1100000,6,384.086536585,NA,NA,NA
+87,1100000,7,384.987127107,0.900590521953,1,1
+88,10011010,3,386.021065163,NA,NA,NA
+88,10011010,4,387.026672317,NA,NA,NA
+88,10011010,5,387.226753194,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/247.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A162.bmp
+88,10011010,6,387.725575047,NA,NA,NA
+88,10011010,7,388.559714526,0.834139479324,1,1
+89,1101,3,389.587166629,NA,NA,NA
+89,1101,4,390.593303555,NA,NA,NA
+89,1101,5,390.792591424,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A119.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0103.bmp
+89,1101,6,391.791809781,NA,NA,NA
+89,1101,7,392.713386251,0.92157647034,-1,1
+90,100111,3,393.771069104,NA,NA,NA
+90,100111,4,394.777364046,NA,NA,NA
+90,100111,5,394.986258207,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A138.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/021.bmp
+90,100111,6,395.976095745,NA,NA,NA
+90,100111,7,396.90431435,0.928218604939,1,1
+91,1000110,3,397.927796277,NA,NA,NA
+91,1000110,4,398.938556704,NA,NA,NA
+91,1000110,5,399.146007832,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A284.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/132.bmp
+91,1000110,6,400.133132349,NA,NA,NA
+91,1000110,7,400.867433033,0.734300684097,-1,1
+92,10110,3,401.900455628,NA,NA,NA
+92,10110,4,402.905869937,NA,NA,NA
+92,10110,5,403.105855859,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A168.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/091.bmp
+92,10110,6,404.105431675,NA,NA,NA
+92,10110,7,404.732855474,0.627423799859,-1,1
+93,11000,3,405.757183938,NA,NA,NA
+93,11000,4,406.763251572,NA,NA,NA
+93,11000,5,406.963446469,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/043.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A73.bmp
+93,11000,6,407.962548606,NA,NA,NA
+93,11000,7,408.815007208,0.852458601687,1,1
+94,101000,3,409.842884595,NA,NA,NA
+94,101000,4,410.848449587,NA,NA,NA
+94,101000,5,411.048542197,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0105.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A252.bmp
+94,101000,6,412.047907937,NA,NA,NA
+94,101000,7,412.748242335,0.700334398134,-1,1
+95,1001011,3,413.772545134,NA,NA,NA
+95,1001011,4,414.778383628,NA,NA,NA
+95,1001011,5,414.978551029,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/146.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A327.bmp
+95,1001011,6,415.477679013,NA,NA,NA
+95,1001011,7,416.205594932,0.727915919822,-1,1
+96,10010010,3,417.229589767,NA,NA,NA
+96,10010010,4,418.235854279,NA,NA,NA
+96,10010010,5,418.435774208,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/254.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A37.bmp
+96,10010010,6,419.435097053,NA,NA,NA
+96,10010010,7,420.253242542,0.818145489029,1,1
+97,10101111,3,421.281680132,NA,NA,NA
+97,10101111,4,422.287839422,NA,NA,NA
+97,10101111,5,422.487959895,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A275.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/219.bmp
+97,10101111,6,422.987416007,NA,NA,NA
+97,10101111,7,423.604191567,0.616775560222,-1,1
+98,10101101,3,424.628101346,NA,NA,NA
+98,10101101,4,425.63411252,NA,NA,NA
+98,10101101,5,425.833940426,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A273.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/28.bmp
+98,10101101,6,426.833220009,NA,NA,NA
+98,10101101,7,427.583134127,0.749914118234,1,1
+99,1110010,3,428.607139961,NA,NA,NA
+99,1110010,4,429.614161552,NA,NA,NA
+99,1110010,5,429.814558093,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/141.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A154.bmp
+99,1110010,6,430.816729243,NA,NA,NA
+99,1110010,7,431.375624706,0.558895463284,-1,1
+100,1111100,3,432.408609538,NA,NA,NA
+100,1111100,4,433.414397805,NA,NA,NA
+100,1111100,5,433.614482715,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A164.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/192.bmp
+100,1111100,6,434.613476331,NA,NA,NA
+100,1111100,7,437.935833785,3.32235745367,1,1
+101,1111111,3,438.97171605,NA,NA,NA
+101,1111111,4,439.977631901,NA,NA,NA
+101,1111111,5,440.177738076,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A36.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/122.bmp
+101,1111111,6,440.676785036,NA,NA,NA
+101,1111111,7,441.53425356,0.857468524366,1,1
+102,1111101,3,442.560479671,NA,NA,NA
+102,1111101,4,443.56685307,NA,NA,NA
+102,1111101,5,443.766899851,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A262.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1102.bmp
+102,1111101,6,444.766137639,NA,NA,NA
+102,1111101,7,445.663580691,0.897443051319,1,1
+103,10000000,3,446.687879824,NA,NA,NA
+103,10000000,4,447.694089708,NA,NA,NA
+103,10000000,5,447.894005605,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2125.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A357.bmp
+103,10000000,6,448.393043765,NA,NA,NA
+103,10000000,7,449.475877054,1.08283328818,-1,1
+104,101001,3,450.504624808,NA,NA,NA
+104,101001,4,451.510061848,NA,NA,NA
+104,101001,5,451.710004141,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/073.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A245.bmp
+104,101001,6,452.709266859,NA,NA,NA
+104,101001,7,453.505012696,0.795745836891,-1,1
+105,10100011,3,454.538223369,NA,NA,NA
+105,10100011,4,455.547582924,NA,NA,NA
+105,10100011,5,455.747846747,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/250.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A281.bmp
+105,10100011,6,456.74353891,NA,NA,NA
+105,10100011,7,457.46121171,0.717672800165,-1,1
+106,1011,3,458.494707617,NA,NA,NA
+106,1011,4,459.509825742,NA,NA,NA
+106,1011,5,459.700522134,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/049.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A89.bmp
+106,1011,6,460.199601723,NA,NA,NA
+106,1011,7,460.954413944,0.754812220475,-1,1
+107,10010101,3,461.981599511,NA,NA,NA
+107,10010101,4,462.987645881,NA,NA,NA
+107,10010101,5,463.187664432,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A234.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2117.bmp
+107,10010101,6,463.686720557,NA,NA,NA
+107,10010101,7,464.699818948,1.01309839063,1,1
+108,10010101,3,465.7236708,NA,NA,NA
+108,10010101,4,466.72965301,NA,NA,NA
+108,10010101,5,466.929618401,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A337.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2103.bmp
+108,10010101,6,467.428725854,NA,NA,NA
+108,10010101,7,468.289238094,0.86051224031,1,1
+109,11000,3,469.313849591,NA,NA,NA
+109,11000,4,470.319857832,NA,NA,NA
+109,11000,5,470.519907913,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/079.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A18.bmp
+109,11000,6,471.518990985,NA,NA,NA
+109,11000,7,472.351450958,0.832459972866,1,1
+110,10111110,3,473.375868511,NA,NA,NA
+110,10111110,4,474.383927283,NA,NA,NA
+110,10111110,5,474.584558097,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A9.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2116.bmp
+110,10111110,6,475.085185574,NA,NA,NA
+110,10111110,7,476.23896692,1.15378134593,1,1
+111,110111,3,477.263429201,NA,NA,NA
+111,110111,4,478.269214901,NA,NA,NA
+111,110111,5,478.469227953,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A137.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/068.bmp
+111,110111,6,479.468269964,NA,NA,NA
+111,110111,7,480.211735525,0.743465561318,1,1
+112,1011001,3,481.235032307,NA,NA,NA
+112,1011001,4,482.241394707,NA,NA,NA
+112,1011001,5,482.441430123,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/167.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A223.bmp
+112,1011001,6,483.446276531,NA,NA,NA
+112,1011001,7,484.373742456,0.927465925008,1,1
+113,11111,3,485.398781438,NA,NA,NA
+113,11111,4,486.407248995,NA,NA,NA
+113,11111,5,486.607557546,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A215.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/025.bmp
+113,11111,6,487.10865467,NA,NA,NA
+113,11111,7,488.249402518,1.14074784784,-1,1
+114,10010011,3,489.273538136,NA,NA,NA
+114,10010011,4,490.289209497,NA,NA,NA
+114,10010011,5,490.48158063,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/233.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A141.bmp
+114,10010011,6,491.483636293,NA,NA,NA
+114,10010011,7,492.300153969,0.81651767662,1,1
+115,101110,3,493.324720372,NA,NA,NA
+115,101110,4,494.330807804,NA,NA,NA
+115,101110,5,494.530703902,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A264.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/024.bmp
+115,101110,6,495.030260837,NA,NA,NA
+115,101110,7,496.020164,0.989903163485,-1,1
+116,1110111,3,497.048854561,NA,NA,NA
+116,1110111,4,498.054348794,NA,NA,NA
+116,1110111,5,498.255089229,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A145.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/179.bmp
+116,1110111,6,499.254270923,NA,NA,NA
+116,1110111,7,500.093082298,0.838811374313,1,1
+117,1001100,3,501.119319408,NA,NA,NA
+117,1001100,4,502.125003186,NA,NA,NA
+117,1001100,5,502.32514419,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A190.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/136.bmp
+117,1001100,6,503.324146238,NA,NA,NA
+117,1001100,7,504.131035624,0.80688938612,-1,1
+118,10001100,3,505.159836539,NA,NA,NA
+118,10001100,4,506.16526038,NA,NA,NA
+118,10001100,5,506.365256201,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A296.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/220.bmp
+118,10001100,6,507.364533584,NA,NA,NA
+118,10001100,7,508.300177067,0.935643482691,-1,1
+119,1001101,3,509.323401257,NA,NA,NA
+119,1001101,4,510.329032608,NA,NA,NA
+119,1001101,5,510.529348492,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A239.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1107.bmp
+119,1001101,6,511.528574548,NA,NA,NA
+119,1001101,7,512.149560056,0.620985508431,-1,1
+120,1110000,3,513.175257495,NA,NA,NA
+120,1110000,4,514.181618795,NA,NA,NA
+120,1110000,5,514.381483731,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1100.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A202.bmp
+120,1110000,6,514.880666708,NA,NA,NA
+120,1110000,7,515.830660604,0.949993895701,1,1
+121,1001101,3,516.854637108,NA,NA,NA
+121,1001101,4,517.860799331,NA,NA,NA
+121,1001101,5,518.0606617,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A371.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/149.bmp
+121,1001101,6,519.059818464,NA,NA,NA
+121,1001101,7,519.755556858,0.69573839441,-1,1
+122,1000,3,520.779652515,NA,NA,NA
+122,1000,4,521.786016749,NA,NA,NA
+122,1000,5,521.98591688,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/01.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A379.bmp
+122,1000,6,522.985110306,NA,NA,NA
+122,1000,7,523.803299424,0.818189117344,1,1
+123,10001,3,524.831126217,NA,NA,NA
+123,10001,4,525.837270842,NA,NA,NA
+123,10001,5,526.037182339,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/093.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A331.bmp
+123,10001,6,526.53610208,NA,NA,NA
+123,10001,7,527.217811958,0.681709877623,-1,1
+124,10000001,3,528.276077377,NA,NA,NA
+124,10000001,4,529.284894328,NA,NA,NA
+124,10000001,5,529.486338681,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/224.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A338.bmp
+124,10000001,6,529.980959018,NA,NA,NA
+124,10000001,7,530.66309088,0.682131862341,-1,1
+125,1101000,3,531.687098547,NA,NA,NA
+125,1101000,4,532.696276256,NA,NA,NA
+125,1101000,5,532.89662147,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/152.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A128.bmp
+125,1101000,6,533.898284478,NA,NA,NA
+125,1101000,7,534.542992786,0.644708308115,-1,1
+126,111111,3,535.576907745,NA,NA,NA
+126,111111,4,536.592000206,NA,NA,NA
+126,111111,5,536.7919381,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A230.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0126.bmp
+126,111111,6,537.281614139,NA,NA,NA
+126,111111,7,538.734399697,1.45278555734,1,1
+127,10001101,3,539.759846364,NA,NA,NA
+127,10001101,4,540.765603101,NA,NA,NA
+127,10001101,5,540.965530729,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A35.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/239.bmp
+127,10001101,6,541.964765584,NA,NA,NA
+127,10001101,7,542.704296532,0.739530948049,-1,1
+127,NA,9,543.71337122,NA,NA,NA
+127,NA,10,652.727089572,109.013718353,1,NA
+128,10010001,3,653.734231416,NA,NA,NA
+128,10010001,4,654.740138835,NA,NA,NA
+128,10010001,5,654.940036767,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/230.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A88.bmp
+128,10010001,6,655.439239542,NA,NA,NA
+128,10010001,7,656.558127409,1.11888786682,-1,1
+129,110000,3,657.586726313,NA,NA,NA
+129,110000,4,658.59222458,NA,NA,NA
+129,110000,5,658.7922193,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/040.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A263.bmp
+129,110000,6,659.292432493,NA,NA,NA
+129,110000,7,660.044036749,0.751604256802,1,1
+130,1110100,3,661.068345781,NA,NA,NA
+130,1110100,4,662.078695589,NA,NA,NA
+130,1110100,5,662.279229614,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A41.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/160.bmp
+130,1110100,6,662.773607245,NA,NA,NA
+130,1110100,7,663.44368083,0.670073585192,-1,1
+131,10011011,3,664.471312946,NA,NA,NA
+131,10011011,4,665.478037571,NA,NA,NA
+131,10011011,5,665.677571445,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/255.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A94.bmp
+131,10011011,6,666.176824448,NA,NA,NA
+131,10011011,7,666.960695686,0.783871238571,1,1
+132,10011000,3,667.984707386,NA,NA,NA
+132,10011000,4,668.99219239,NA,NA,NA
+132,10011000,5,669.192331927,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2105.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A160.bmp
+132,10011000,6,670.194189247,NA,NA,NA
+132,10011000,7,670.879833738,0.685644490892,1,1
+133,100101,3,671.903844338,NA,NA,NA
+133,100101,4,672.90983608,NA,NA,NA
+133,100101,5,673.109733646,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A258.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0121.bmp
+133,100101,6,673.608933488,NA,NA,NA
+133,100101,7,674.341878761,0.732945273601,-1,1
+134,100100,3,675.365656921,NA,NA,NA
+134,100100,4,676.372845693,NA,NA,NA
+134,100100,5,676.57307762,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A265.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/090.bmp
+134,100100,6,677.074175476,NA,NA,NA
+134,100100,7,677.723561545,0.649386069083,-1,1
+135,10111111,3,678.768561393,NA,NA,NA
+135,10111111,4,679.774382289,NA,NA,NA
+135,10111111,5,679.974353912,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A45.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/269.bmp
+135,10111111,6,680.473530657,NA,NA,NA
+135,10111111,7,681.241521926,0.767991268469,1,1
+136,111001,3,682.267693043,NA,NA,NA
+136,111001,4,683.273266101,NA,NA,NA
+136,111001,5,683.473223793,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/06.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A85.bmp
+136,111001,6,684.472446916,NA,NA,NA
+136,111001,7,685.124668824,0.652221908953,-1,1
+137,1110001,3,686.148277237,NA,NA,NA
+137,1110001,4,687.154382267,NA,NA,NA
+137,1110001,5,687.354361956,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1101.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A136.bmp
+137,1110001,6,687.853467943,NA,NA,NA
+137,1110001,7,688.688165058,0.834697115075,1,1
+138,101111,3,689.715388754,NA,NA,NA
+138,101111,4,690.722121445,NA,NA,NA
+138,101111,5,690.921512335,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A345.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0111.bmp
+138,101111,6,691.420714377,NA,NA,NA
+138,101111,7,691.987165969,0.56645159256,-1,1
+139,1100001,3,693.010720488,NA,NA,NA
+139,1100001,4,694.016681802,NA,NA,NA
+139,1100001,5,694.216603931,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1112.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A51.bmp
+139,1100001,6,694.71574218,NA,NA,NA
+139,1100001,7,695.556505829,0.840763649336,1,1
+140,10100000,3,696.582524431,NA,NA,NA
+140,10100000,4,697.588881332,NA,NA,NA
+140,10100000,5,697.788969908,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/261.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A290.bmp
+140,10100000,6,698.288219611,NA,NA,NA
+140,10100000,7,698.990577043,0.702357431685,1,1
+141,10100000,3,700.01849036,NA,NA,NA
+141,10100000,4,701.023891104,NA,NA,NA
+141,10100000,5,701.223926887,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2128.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A249.bmp
+141,10100000,6,701.723102532,NA,NA,NA
+141,10100000,7,702.479425245,0.756322713089,1,1
+142,1101100,3,703.502360902,NA,NA,NA
+142,1101100,4,704.510568156,NA,NA,NA
+142,1101100,5,704.71102629,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A113.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/159.bmp
+142,1101100,6,705.712796719,NA,NA,NA
+142,1101100,7,706.446541967,0.733745248086,1,1
+143,10001010,3,707.47104421,NA,NA,NA
+143,10001010,4,708.477256661,NA,NA,NA
+143,10001010,5,708.67712453,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/280.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A5.bmp
+143,10001010,6,709.17625728,NA,NA,NA
+143,10001010,7,709.99002344,0.81376616034,-1,1
+144,10111101,3,711.014445759,NA,NA,NA
+144,10111101,4,712.030138018,NA,NA,NA
+144,10111101,5,712.225388252,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A295.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/238.bmp
+144,10111101,6,713.219489631,NA,NA,NA
+144,10111101,7,713.885329071,0.665839439782,1,1
+145,10000100,3,714.913786459,NA,NA,NA
+145,10000100,4,715.919512399,NA,NA,NA
+145,10000100,5,716.119525451,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A305.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/215.bmp
+145,10000100,6,716.618912638,NA,NA,NA
+145,10000100,7,717.526746925,0.907834287224,1,1
+146,10101000,3,718.561812718,NA,NA,NA
+146,10101000,4,719.56801087,NA,NA,NA
+146,10101000,5,719.768089181,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/274.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A206.bmp
+146,10101000,6,720.766906451,NA,NA,NA
+146,10101000,7,721.711060019,0.944153568693,1,0
+146,10101000,8,721.736755625,NA,NA,NA
+147,1011000,3,725.758215985,NA,NA,NA
+147,1011000,4,726.764036881,NA,NA,NA
+147,1011000,5,726.964048467,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/196.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A232.bmp
+147,1011000,6,727.963195332,NA,NA,NA
+147,1011000,7,729.74995887,1.78676353861,1,1
+148,10000011,3,730.78356953,NA,NA,NA
+148,10000011,4,731.789173751,NA,NA,NA
+148,10000011,5,731.989104313,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/21.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A165.bmp
+148,10000011,6,732.988281974,NA,NA,NA
+148,10000011,7,734.341784539,1.35350256473,1,1
+149,10100,3,735.379407903,NA,NA,NA
+149,10100,4,736.388432363,NA,NA,NA
+149,10100,5,736.595111014,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A91.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/07.bmp
+149,10100,6,737.09491102,NA,NA,NA
+149,10100,7,738.504403733,1.40949271279,1,1
+150,10010010,3,739.532612549,NA,NA,NA
+150,10010010,4,740.538463875,NA,NA,NA
+150,10010010,5,740.738546219,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2121.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A188.bmp
+150,10010010,6,741.737741845,NA,NA,NA
+150,10010010,7,743.055703838,1.31796199351,1,1
+151,10001100,3,744.079515728,NA,NA,NA
+151,10001100,4,745.088566951,NA,NA,NA
+151,10001100,5,745.289007854,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A40.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/283.bmp
+151,10001100,6,746.284926224,NA,NA,NA
+151,10001100,7,747.172856105,0.887929880875,-1,1
+152,110101,3,748.198659498,NA,NA,NA
+152,110101,4,749.20495444,NA,NA,NA
+152,110101,5,749.404953193,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A48.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0123.bmp
+152,110101,6,749.904227827,NA,NA,NA
+152,110101,7,750.581089463,0.676861636312,-1,1
+153,10101011,3,751.617773902,NA,NA,NA
+153,10101011,4,752.623957023,NA,NA,NA
+153,10101011,5,752.82392938,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/212.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A20.bmp
+153,10101011,6,753.323406757,NA,NA,NA
+153,10101011,7,754.182875217,0.859468460578,1,1
+154,11011,3,755.216478178,NA,NA,NA
+154,11011,4,756.232495633,NA,NA,NA
+154,11011,5,756.427044147,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0102.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A372.bmp
+154,11011,6,756.921211703,NA,NA,NA
+154,11011,7,757.833412854,0.912201150684,1,1
+155,10000,3,758.857092758,NA,NA,NA
+155,10000,4,759.867029013,NA,NA,NA
+155,10000,5,760.067471016,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0109.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A50.bmp
+155,10000,6,760.568596003,NA,NA,NA
+155,10000,7,761.246166691,0.677570687942,-1,1
+156,10100111,3,762.279807414,NA,NA,NA
+156,10100111,4,763.295037359,NA,NA,NA
+156,10100111,5,763.485551905,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A359.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/287.bmp
+156,10100111,6,764.484524257,NA,NA,NA
+156,10100111,7,765.67952262,1.19499836303,1,1
+157,110011,3,766.730053364,NA,NA,NA
+157,110011,4,767.735863261,NA,NA,NA
+157,110011,5,767.946806487,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/074.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A156.bmp
+157,110011,6,768.934745643,NA,NA,NA
+157,110011,7,769.644415399,0.709669755728,-1,1
+158,1010110,3,770.678114049,NA,NA,NA
+158,1010110,4,771.683962075,NA,NA,NA
+158,1010110,5,771.883752953,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A76.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/156.bmp
+158,1010110,6,772.882831259,NA,NA,NA
+158,1010110,7,773.600651075,0.717819816564,-1,1
+159,1111001,3,774.637476665,NA,NA,NA
+159,1111001,4,775.653369467,NA,NA,NA
+159,1111001,5,775.848132824,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/197.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A187.bmp
+159,1111001,6,776.842255835,NA,NA,NA
+159,1111001,7,777.604440872,0.762185037544,-1,1
+160,1111010,3,778.627927932,NA,NA,NA
+160,1111010,4,779.638521545,NA,NA,NA
+160,1111010,5,779.838658149,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1115.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A377.bmp
+160,1111010,6,780.333859952,NA,NA,NA
+160,1111010,7,780.949398888,0.615538936065,-1,1
+161,1011010,3,781.982900661,NA,NA,NA
+161,1011010,4,782.989470204,NA,NA,NA
+161,1011010,5,783.189179691,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/172.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A134.bmp
+161,1011010,6,783.6886655,NA,NA,NA
+161,1011010,7,784.567480731,0.87881523119,1,1
+162,10001101,3,785.590794745,NA,NA,NA
+162,10001101,4,786.596667701,NA,NA,NA
+162,10001101,5,786.796777175,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A244.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/297.bmp
+162,10001101,6,787.795670336,NA,NA,NA
+162,10001101,7,789.242000004,1.44632966795,-1,1
+163,1011000,3,790.265468366,NA,NA,NA
+163,1011000,4,791.271571563,NA,NA,NA
+163,1011000,5,791.471455196,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1109.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A366.bmp
+163,1011000,6,792.470600595,NA,NA,NA
+163,1011000,7,793.964600603,1.49400000807,-1,0
+163,1011000,8,793.989202935,NA,NA,NA
+164,10000000,3,798.000674979,NA,NA,NA
+164,10000000,4,799.009076545,NA,NA,NA
+164,10000000,5,799.209526979,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/234.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A27.bmp
+164,10000000,6,799.710291575,NA,NA,NA
+164,10000000,7,800.385911454,0.675619879403,-1,1
+165,10100011,3,801.413744113,NA,NA,NA
+165,10100011,4,802.420026223,NA,NA,NA
+165,10100011,5,802.620002979,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/268.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A236.bmp
+165,10100011,6,803.619165609,NA,NA,NA
+165,10100011,7,804.274109337,0.654943728645,-1,1
+166,1000100,3,805.29794909,NA,NA,NA
+166,1000100,4,806.306671085,NA,NA,NA
+166,1000100,5,806.506798524,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A127.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/130.bmp
+166,1000100,6,807.007929377,NA,NA,NA
+166,1000100,7,808.014509918,1.00658054171,1,1
+167,1011111,3,809.038314475,NA,NA,NA
+167,1011111,4,810.046914384,NA,NA,NA
+167,1011111,5,810.253479381,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A231.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/127.bmp
+167,1011111,6,810.748401816,NA,NA,NA
+167,1011111,7,811.439657127,0.691255311016,-1,1
+168,100001,3,812.468319824,NA,NA,NA
+168,100001,4,813.474834374,NA,NA,NA
+168,100001,5,813.68018731,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/082.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A267.bmp
+168,100001,6,814.174316003,NA,NA,NA
+168,100001,7,815.147436568,0.973120564071,1,1
+169,10100001,3,816.181997885,NA,NA,NA
+169,10100001,4,817.187894672,NA,NA,NA
+169,10100001,5,817.387644488,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/244.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A24.bmp
+169,10100001,6,817.886830031,NA,NA,NA
+169,10100001,7,818.596339939,0.70950990748,1,1
+170,111011,3,819.620714963,NA,NA,NA
+170,111011,4,820.625915897,NA,NA,NA
+170,111011,5,820.826668064,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/04.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A155.bmp
+170,111011,6,821.325911901,NA,NA,NA
+170,111011,7,822.0033902,0.677478298574,-1,1
+171,10001000,3,823.028011963,NA,NA,NA
+171,10001000,4,824.033752568,NA,NA,NA
+171,10001000,5,824.233772219,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/293.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A181.bmp
+171,10001000,6,825.232944014,NA,NA,NA
+171,10001000,7,825.952778799,0.719834784366,1,1
+172,111000,3,826.98678578,NA,NA,NA
+172,111000,4,827.993344691,NA,NA,NA
+172,111000,5,828.193308982,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/066.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A224.bmp
+172,111000,6,829.192066858,NA,NA,NA
+172,111000,7,829.893332482,0.701265624157,-1,1
+173,1110111,3,830.920445458,NA,NA,NA
+173,1110111,4,831.92618643,NA,NA,NA
+173,1110111,5,832.126053565,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A107.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/164.bmp
+173,1110111,6,833.125556789,NA,NA,NA
+173,1110111,7,833.958988683,0.833431894207,1,1
+174,10001011,3,834.9949967,NA,NA,NA
+174,10001011,4,836.001385864,NA,NA,NA
+174,10001011,5,836.201291495,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/217.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A343.bmp
+174,10001011,6,836.700596558,NA,NA,NA
+174,10001011,7,837.41391496,0.713318401933,-1,1
+175,111011,3,838.43937776,NA,NA,NA
+175,111011,4,839.44547839,NA,NA,NA
+175,111011,5,839.645601062,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/076.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A335.bmp
+175,111011,6,840.144564798,NA,NA,NA
+175,111011,7,840.842806138,0.698241339327,-1,1
+176,110100,3,841.866410518,NA,NA,NA
+176,110100,4,842.876934838,NA,NA,NA
+176,110100,5,843.077254388,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A95.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/087.bmp
+176,110100,6,843.571729542,NA,NA,NA
+176,110100,7,844.360876139,0.789146597352,-1,1
+177,1100111,3,845.386572478,NA,NA,NA
+177,1100111,4,846.392747166,NA,NA,NA
+177,1100111,5,846.592737854,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A72.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/161.bmp
+177,1100111,6,847.591984807,NA,NA,NA
+177,1100111,7,848.372571091,0.780586283785,1,1
+178,1001,3,849.396663082,NA,NA,NA
+178,1001,4,850.408141726,NA,NA,NA
+178,1001,5,850.602882352,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/014.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A105.bmp
+178,1001,6,851.602268622,NA,NA,NA
+178,1001,7,852.501562027,0.899293404756,1,1
+179,10011100,3,853.536458073,NA,NA,NA
+179,10011100,4,854.542016465,NA,NA,NA
+179,10011100,5,854.741960225,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A174.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/232.bmp
+179,10011100,6,855.741159884,NA,NA,NA
+179,10011100,7,856.50714975,0.765989865773,-1,1
+180,1,3,857.542313431,NA,NA,NA
+180,1,4,858.548751356,NA,NA,NA
+180,1,5,858.748846532,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0120.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A167.bmp
+180,1,6,859.246938802,NA,NA,NA
+180,1,7,860.096034724,0.849095922516,-1,1
+181,1101011,3,861.120185741,NA,NA,NA
+181,1101011,4,862.135549137,NA,NA,NA
+181,1101011,5,862.33570004,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/114.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A6.bmp
+181,1101011,6,862.825435473,NA,NA,NA
+181,1101011,7,863.798607364,0.973171891499,1,1
+182,1111110,3,864.824313969,NA,NA,NA
+182,1111110,4,865.830553916,NA,NA,NA
+182,1111110,5,866.030452581,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A69.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/175.bmp
+182,1111110,6,866.52999925,NA,NA,NA
+182,1111110,7,867.43246249,0.902463239487,1,1
+183,10100111,3,868.459750712,NA,NA,NA
+183,10100111,4,869.46549425,NA,NA,NA
+183,10100111,5,869.665925254,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A247.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/211.bmp
+183,10100111,6,870.66468203,NA,NA,NA
+183,10100111,7,871.373150358,0.708468327502,1,1
+184,100111,3,872.407613786,NA,NA,NA
+184,100111,4,873.414128702,NA,NA,NA
+184,100111,5,873.613772563,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A39.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0117.bmp
+184,100111,6,874.612915029,NA,NA,NA
+184,100111,7,876.140230931,1.52731590231,1,1
+185,1101000,3,877.164770937,NA,NA,NA
+185,1101000,4,878.171098141,NA,NA,NA
+185,1101000,5,878.371127691,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/116.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A254.bmp
+185,1101000,6,879.370144038,NA,NA,NA
+185,1101000,7,880.071232216,0.701088177942,-1,1
+186,1010111,3,881.09499681,NA,NA,NA
+186,1010111,4,882.102420588,NA,NA,NA
+186,1010111,5,882.302908419,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A282.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/190.bmp
+186,1010111,6,883.304838696,NA,NA,NA
+186,1010111,7,884.125359545,0.820520848647,-1,1
+187,100101,3,885.149458135,NA,NA,NA
+187,100101,4,886.160461267,NA,NA,NA
+187,100101,5,886.355328012,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A43.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/092.bmp
+187,100101,6,886.854341609,NA,NA,NA
+187,100101,7,888.091205181,1.23686357209,-1,1
+188,1,3,889.120266032,NA,NA,NA
+188,1,4,890.126364096,NA,NA,NA
+188,1,5,890.32644534,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/055.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A203.bmp
+188,1,6,890.825535195,NA,NA,NA
+188,1,7,891.525440276,0.699905080939,-1,1
+189,10101,3,892.549535932,NA,NA,NA
+189,10101,4,893.56488283,NA,NA,NA
+189,10101,5,893.765095693,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A116.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/085.bmp
+189,10101,6,894.259176358,NA,NA,NA
+189,10101,7,895.182933877,0.923757519005,1,1
+190,10000101,3,896.207026967,NA,NA,NA
+190,10000101,4,897.21489766,NA,NA,NA
+190,10000101,5,897.415430219,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A178.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/296.bmp
+190,10000101,6,897.924568149,NA,NA,NA
+190,10000101,7,898.775073376,0.850505226786,1,1
+191,10111010,3,899.813403593,NA,NA,NA
+191,10111010,4,900.822131454,NA,NA,NA
+191,10111010,5,901.030477145,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/231.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A22.bmp
+191,10111010,6,901.527067721,NA,NA,NA
+191,10111010,7,902.112922911,0.585855189944,-1,1
+191,NA,9,903.122562934,NA,NA,NA
+191,NA,10,962.599341493,59.4767785592,1,NA
+192,100,3,963.616251678,NA,NA,NA
+192,100,4,964.622529021,NA,NA,NA
+192,100,5,964.822381858,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A212.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/051.bmp
+192,100,6,965.32149811,NA,NA,NA
+192,100,7,965.977033937,0.6555358271,1,1
+193,1101110,3,967.010671361,NA,NA,NA
+193,1101110,4,968.017982218,NA,NA,NA
+193,1101110,5,968.218262906,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A7.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/170.bmp
+193,1101110,6,968.719150687,NA,NA,NA
+193,1101110,7,969.517877914,0.798727226662,-1,1
+194,10011110,3,970.544619865,NA,NA,NA
+194,10011110,4,971.550728928,NA,NA,NA
+194,10011110,5,971.750624294,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A316.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/264.bmp
+194,10011110,6,972.24969655,NA,NA,NA
+194,10011110,7,972.787529074,0.537832523754,-1,1
+195,1011110,3,973.816700646,NA,NA,NA
+195,1011110,4,974.822817408,NA,NA,NA
+195,1011110,5,975.02285429,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A226.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/181.bmp
+195,1011110,6,975.522052299,NA,NA,NA
+195,1011110,7,976.374899156,0.852846856957,-1,1
+196,110000,3,977.408631169,NA,NA,NA
+196,110000,4,978.414926844,NA,NA,NA
+196,110000,5,978.615067114,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/029.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A368.bmp
+196,110000,6,979.114000054,NA,NA,NA
+196,110000,7,980.125360278,1.01136022426,1,1
+197,101010,3,981.148826441,NA,NA,NA
+197,101010,4,982.15514228,NA,NA,NA
+197,101010,5,982.355209592,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/097.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A173.bmp
+197,101010,6,982.854317411,NA,NA,NA
+197,101010,7,983.599532504,0.745215093048,1,1
+198,10101101,3,984.623285734,NA,NA,NA
+198,10101101,4,985.629240448,NA,NA,NA
+198,10101101,5,985.829459542,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A62.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/242.bmp
+198,10101101,6,986.828342071,NA,NA,NA
+198,10101101,7,987.619854863,0.791512791344,1,1
+199,110110,3,988.645323894,NA,NA,NA
+199,110110,4,989.651414626,NA,NA,NA
+199,110110,5,989.851491837,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A383.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/050.bmp
+199,110110,6,990.850581875,NA,NA,NA
+199,110110,7,991.489856443,0.639274567584,1,1
+200,10011001,3,992.515049406,NA,NA,NA
+200,10011001,4,993.520470682,NA,NA,NA
+200,10011001,5,993.720418108,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/218.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A123.bmp
+200,10011001,6,994.719795946,NA,NA,NA
+200,10011001,7,995.6149014,0.895105454023,1,1
+201,10011011,3,996.644648206,NA,NA,NA
+201,10011011,4,997.650907951,NA,NA,NA
+201,10011011,5,997.850635769,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/263.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A330.bmp
+201,10011011,6,998.349995093,NA,NA,NA
+201,10011011,7,999.377784124,1.02778903111,1,1
+202,10110001,3,1000.41433841,NA,NA,NA
+202,10110001,4,1001.42010688,NA,NA,NA
+202,10110001,5,1001.62040517,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/23.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A221.bmp
+202,10110001,6,1002.11871338,NA,NA,NA
+202,10110001,7,1002.89975867,0.781045297554,1,1
+203,1010011,3,1003.92402555,NA,NA,NA
+203,1010011,4,1004.93005542,NA,NA,NA
+203,1010011,5,1005.12991412,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/143.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A64.bmp
+203,1010011,6,1006.12906685,NA,NA,NA
+203,1010011,7,1006.92780508,0.798738225407,1,1
+204,1101110,3,1007.95215407,NA,NA,NA
+204,1101110,4,1008.9582712,NA,NA,NA
+204,1101110,5,1009.15808004,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A171.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/171.bmp
+204,1101110,6,1009.65729272,NA,NA,NA
+204,1101110,7,1010.41898978,0.761697060443,-1,1
+205,10111110,3,1011.44317892,NA,NA,NA
+205,10111110,4,1012.453462,NA,NA,NA
+205,10111110,5,1012.6539645,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A276.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2114.bmp
+205,10111110,6,1013.14871682,NA,NA,NA
+205,10111110,7,1013.90516749,0.756450665009,1,1
+206,10100100,3,1014.92921511,NA,NA,NA
+206,10100100,4,1015.93551592,NA,NA,NA
+206,10100100,5,1016.13563859,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A114.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/257.bmp
+206,10100100,6,1016.63469179,NA,NA,NA
+206,10100100,7,1017.44687853,0.812186742347,-1,1
+207,11110,3,1018.47033699,NA,NA,NA
+207,11110,4,1019.47646622,NA,NA,NA
+207,11110,5,1019.67673627,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A274.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/062.bmp
+207,11110,6,1020.17564648,NA,NA,NA
+207,11110,7,1020.94002027,0.764373785321,-1,1
+208,11111,3,1021.96382226,NA,NA,NA
+208,11111,4,1022.97406538,NA,NA,NA
+208,11111,5,1023.17913895,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A198.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/012.bmp
+208,11111,6,1023.66882159,NA,NA,NA
+208,11111,7,1024.29895621,0.63013462082,-1,1
+209,110011,3,1025.32265921,NA,NA,NA
+209,110011,4,1026.33010865,NA,NA,NA
+209,110011,5,1026.5304392,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/044.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A309.bmp
+209,110011,6,1027.53267744,NA,NA,NA
+209,110011,7,1028.28180552,0.749128075477,-1,1
+210,1100101,3,1029.30791761,NA,NA,NA
+210,1100101,4,1030.31403877,NA,NA,NA
+210,1100101,5,1030.51392387,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A325.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/129.bmp
+210,1100101,6,1031.01301886,NA,NA,NA
+210,1100101,7,1031.65691436,0.643895501766,-1,1
+211,10000100,3,1032.68097849,NA,NA,NA
+211,10000100,4,1033.68731779,NA,NA,NA
+211,10000100,5,1033.8870929,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A90.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/289.bmp
+211,10000100,6,1034.3863481,NA,NA,NA
+211,10000100,7,1035.17705359,0.790705484367,1,1
+212,1111011,3,1036.21024373,NA,NA,NA
+212,1111011,4,1037.21790765,NA,NA,NA
+212,1111011,5,1037.41836468,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/157.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A56.bmp
+212,1111011,6,1037.9191905,NA,NA,NA
+212,1111011,7,1038.70815195,0.78896145201,-1,1
+213,1110,3,1039.73298196,NA,NA,NA
+213,1110,4,1040.74952552,NA,NA,NA
+213,1110,5,1040.95529201,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A286.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/088.bmp
+213,1110,6,1041.44283429,NA,NA,NA
+213,1110,7,1043.56248107,2.11964677936,1,1
+214,1000011,3,1044.58632926,NA,NA,NA
+214,1000011,4,1045.59268359,NA,NA,NA
+214,1000011,5,1045.7925203,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/11.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A130.bmp
+214,1000011,6,1046.79174196,NA,NA,NA
+214,1000011,7,1047.71201838,0.920276420147,1,1
+215,10010,3,1048.74013004,NA,NA,NA
+215,10010,4,1049.74599823,NA,NA,NA
+215,10010,5,1049.94590276,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/059.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A159.bmp
+215,10010,6,1050.94492607,NA,NA,NA
+215,10010,7,1052.0421083,1.09718223471,1,1
+216,10001001,3,1053.06973859,NA,NA,NA
+216,10001001,4,1054.07601336,NA,NA,NA
+216,10001001,5,1054.2759003,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2113.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A111.bmp
+216,10001001,6,1055.27520151,NA,NA,NA
+216,10001001,7,1055.85703227,0.581830753712,1,1
+217,1110011,3,1056.88106486,NA,NA,NA
+217,1110011,4,1057.89102751,NA,NA,NA
+217,1110011,5,1058.09152121,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1125.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A101.bmp
+217,1110011,6,1059.08627372,NA,NA,NA
+217,1110011,7,1059.75622595,0.669952232507,-1,1
+218,1000101,3,1060.78357026,NA,NA,NA
+218,1000101,4,1061.78933177,NA,NA,NA
+218,1000101,5,1061.98928139,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A210.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/123.bmp
+218,1000101,6,1062.48843284,NA,NA,NA
+218,1000101,7,1064.02846804,1.54003520329,1,1
+219,100110,3,1065.0548419,NA,NA,NA
+219,100110,4,1066.06031231,NA,NA,NA
+219,100110,5,1066.2602678,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A108.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/042.bmp
+219,100110,6,1067.25955985,NA,NA,NA
+219,100110,7,1067.88686853,0.627308679803,1,1
+220,101,3,1068.91988159,NA,NA,NA
+220,101,4,1069.9256024,NA,NA,NA
+220,101,5,1070.12557732,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A8.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/078.bmp
+220,101,6,1070.62461511,NA,NA,NA
+220,101,7,1071.35585888,0.731243769682,1,1
+221,10010110,3,1072.37957948,NA,NA,NA
+221,10010110,4,1073.38772111,NA,NA,NA
+221,10010110,5,1073.59513301,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A14.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/265.bmp
+221,10010110,6,1074.59439243,NA,NA,NA
+221,10010110,7,1075.35014944,0.755757011604,-1,1
+222,11001,3,1076.37667105,NA,NA,NA
+222,11001,4,1077.38308001,NA,NA,NA
+222,11001,5,1077.58273194,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/083.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A328.bmp
+222,11001,6,1078.5819206,NA,NA,NA
+222,11001,7,1080.07735814,1.49543754241,1,1
+223,1111000,3,1081.11044196,NA,NA,NA
+223,1111000,4,1082.12102641,NA,NA,NA
+223,1111000,5,1082.31600901,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/166.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A74.bmp
+223,1111000,6,1083.31512068,NA,NA,NA
+223,1111000,7,1084.19467576,0.879555079271,-1,1
+224,1100,3,1085.21813202,NA,NA,NA
+224,1100,4,1086.2289973,NA,NA,NA
+224,1100,5,1086.43628565,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A67.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/010.bmp
+224,1100,6,1087.4234263,NA,NA,NA
+224,1100,7,1088.0696154,0.64618910414,-1,1
+225,10011110,3,1089.0939556,NA,NA,NA
+225,10011110,4,1090.10618509,NA,NA,NA
+225,10011110,5,1090.30361894,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A84.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/278.bmp
+225,10011110,6,1090.80443413,NA,NA,NA
+225,10011110,7,1091.75770674,0.953272617888,-1,1
+226,100011,3,1092.78144531,NA,NA,NA
+226,100011,4,1093.78751551,NA,NA,NA
+226,100011,5,1093.98734268,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0115.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A318.bmp
+226,100011,6,1094.98695736,NA,NA,NA
+226,100011,7,1095.97923515,0.992277789861,-1,1
+227,11011,3,1097.00450474,NA,NA,NA
+227,11011,4,1098.01068859,NA,NA,NA
+227,11011,5,1098.21079917,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/046.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A163.bmp
+227,11011,6,1098.70989085,NA,NA,NA
+227,11011,7,1100.00073657,1.29084571821,1,1
+228,1100001,3,1101.02872321,NA,NA,NA
+228,1100001,4,1102.03477655,NA,NA,NA
+228,1100001,5,1102.23472801,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1123.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A157.bmp
+228,1100001,6,1102.73402354,NA,NA,NA
+228,1100001,7,1104.55375871,1.81973517252,1,1
+229,10111111,3,1105.59083214,NA,NA,NA
+229,10111111,4,1106.60710293,NA,NA,NA
+229,10111111,5,1106.80658328,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A151.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/24.bmp
+229,10111111,6,1107.29614676,NA,NA,NA
+229,10111111,7,1108.47869896,1.18255219724,1,1
+230,11100,3,1109.50711859,NA,NA,NA
+230,11100,4,1110.51315176,NA,NA,NA
+230,11100,5,1110.71304602,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A270.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/028.bmp
+230,11100,6,1111.71230471,NA,NA,NA
+230,11100,7,1112.611149,0.898844289841,-1,1
+231,1100101,3,1113.653691,NA,NA,NA
+231,1100101,4,1114.65924719,NA,NA,NA
+231,1100101,5,1114.85925511,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A86.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/137.bmp
+231,1100101,6,1115.35869986,NA,NA,NA
+231,1100101,7,1115.97008934,0.611389480895,-1,1
+232,1110110,3,1116.99426748,NA,NA,NA
+232,1110110,4,1118.00059652,NA,NA,NA
+232,1110110,5,1118.20078922,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A179.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/187.bmp
+232,1110110,6,1119.19970988,NA,NA,NA
+232,1110110,7,1120.07412195,0.87441207192,1,1
+233,1101111,3,1121.10743308,NA,NA,NA
+233,1101111,4,1122.11486125,NA,NA,NA
+233,1101111,5,1122.31517347,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A261.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/186.bmp
+233,1101111,6,1122.8162013,NA,NA,NA
+233,1101111,7,1123.65066231,0.834461008941,-1,1
+234,1000101,3,1124.67459812,NA,NA,NA
+234,1000101,4,1125.68102835,NA,NA,NA
+234,1000101,5,1125.88101683,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A313.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/133.bmp
+234,1000101,6,1126.3800022,NA,NA,NA
+234,1000101,7,1127.42949503,1.04949283011,1,1
+235,10111011,3,1128.45370618,NA,NA,NA
+235,10111011,4,1129.46233615,NA,NA,NA
+235,10111011,5,1129.66257247,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/210.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A191.bmp
+235,10111011,6,1130.16352001,NA,NA,NA
+235,10111011,7,1130.82653058,0.663010565753,-1,1
+236,111110,3,1131.87559886,NA,NA,NA
+236,111110,4,1132.90004977,NA,NA,NA
+236,111110,5,1133.09459316,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A217.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/037.bmp
+236,111110,6,1133.58070267,NA,NA,NA
+236,111110,7,1134.3432866,0.762583924909,1,1
+237,1110101,3,1135.36720298,NA,NA,NA
+237,1110101,4,1136.37552278,NA,NA,NA
+237,1110101,5,1136.57585993,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A47.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/150.bmp
+237,1110101,6,1137.07681884,NA,NA,NA
+237,1110101,7,1138.40737181,1.33055297594,-1,1
+238,1001010,3,1139.4370123,NA,NA,NA
+238,1001010,4,1140.44330321,NA,NA,NA
+238,1001010,5,1140.64321067,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/169.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A83.bmp
+238,1001010,6,1141.14257256,NA,NA,NA
+238,1001010,7,1141.97091168,0.828339114392,-1,1
+239,1001000,3,1142.99539485,NA,NA,NA
+239,1001000,4,1144.00181042,NA,NA,NA
+239,1001000,5,1144.20167095,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/151.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A243.bmp
+239,1001000,6,1145.20109755,NA,NA,NA
+239,1001000,7,1146.17118283,0.970085280511,1,1
+240,1011,3,1147.19639706,NA,NA,NA
+240,1011,4,1148.20284305,NA,NA,NA
+240,1011,5,1148.40257307,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/075.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A81.bmp
+240,1011,6,1148.90210617,NA,NA,NA
+240,1011,7,1149.67381061,0.771704440602,-1,1
+241,10100101,3,1150.69780251,NA,NA,NA
+241,10100101,4,1151.71335875,NA,NA,NA
+241,10100101,5,1151.91328858,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A16.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2126.bmp
+241,10100101,6,1152.41241767,NA,NA,NA
+241,10100101,7,1153.23807566,0.825657990019,-1,1
+242,10001110,3,1154.27094903,NA,NA,NA
+242,10001110,4,1155.27858912,NA,NA,NA
+242,10001110,5,1155.4789545,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A344.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/226.bmp
+242,10001110,6,1155.97990094,NA,NA,NA
+242,10001110,7,1156.89876036,0.918859416764,1,1
+243,101100,3,1157.92320541,NA,NA,NA
+243,101100,4,1158.92904903,NA,NA,NA
+243,101100,5,1159.12894513,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A199.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0114.bmp
+243,101100,6,1160.12816679,NA,NA,NA
+243,101100,7,1160.8416949,0.713528111111,1,1
+244,0,3,1161.86608569,NA,NA,NA
+244,0,4,1162.87657188,NA,NA,NA
+244,0,5,1163.07678584,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/030.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A147.bmp
+244,0,6,1163.57148537,NA,NA,NA
+244,0,7,1164.5310258,0.959540428958,-1,1
+245,1101010,3,1165.55546022,NA,NA,NA
+245,1101010,4,1166.56135554,NA,NA,NA
+245,1101010,5,1166.76141625,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/163.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A146.bmp
+245,1101010,6,1167.26055927,NA,NA,NA
+245,1101010,7,1168.47048584,1.20992657612,1,1
+246,1000010,3,1169.49447004,NA,NA,NA
+246,1000010,4,1170.500633,NA,NA,NA
+246,1000010,5,1170.70095365,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/126.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A19.bmp
+246,1000010,6,1171.69977165,NA,NA,NA
+246,1000010,7,1173.40366084,1.7038891885,1,1
+247,10010110,3,1174.43230924,NA,NA,NA
+247,10010110,4,1175.43811401,NA,NA,NA
+247,10010110,5,1175.64042176,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A38.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/251.bmp
+247,10010110,6,1176.64376317,NA,NA,NA
+247,10010110,7,1177.34999509,0.706231918535,-1,1
+248,1110000,3,1178.38384663,NA,NA,NA
+248,1110000,4,1179.39187533,NA,NA,NA
+248,1110000,5,1179.59205043,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/174.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A321.bmp
+248,1110000,6,1180.09850504,NA,NA,NA
+248,1110000,7,1181.63929806,1.54079301594,1,1
+249,10100101,3,1182.66443493,NA,NA,NA
+249,10100101,4,1183.67005015,NA,NA,NA
+249,10100101,5,1183.87015082,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A241.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/279.bmp
+249,10100101,6,1184.36912629,NA,NA,NA
+249,10100101,7,1185.18545625,0.816329964917,-1,1
+250,1001110,3,1186.20914129,NA,NA,NA
+250,1001110,4,1187.21520343,NA,NA,NA
+250,1001110,5,1187.41508596,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A233.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/162.bmp
+250,1001110,6,1187.91448671,NA,NA,NA
+250,1001110,7,1189.23689733,1.32241061422,1,1
+251,1010100,3,1190.26274105,NA,NA,NA
+251,1010100,4,1191.26833867,NA,NA,NA
+251,1010100,5,1191.46838508,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A120.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/193.bmp
+251,1010100,6,1191.96769601,NA,NA,NA
+251,1010100,7,1193.00158494,1.0338889282,1,1
+252,1101101,3,1194.02451253,NA,NA,NA
+252,1101101,4,1195.03066999,NA,NA,NA
+252,1101101,5,1195.230422,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A350.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/139.bmp
+252,1101101,6,1196.22964109,NA,NA,NA
+252,1101101,7,1196.89733272,0.667691626339,1,1
+253,10001011,3,1197.92190902,NA,NA,NA
+253,10001011,4,1198.92923455,NA,NA,NA
+253,10001011,5,1199.12970954,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/290.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A293.bmp
+253,10001011,6,1199.6360252,NA,NA,NA
+253,10001011,7,1200.31976104,0.683735844184,-1,1
+254,10011,3,1201.34360446,NA,NA,NA
+254,10011,4,1202.35250024,NA,NA,NA
+254,10011,5,1202.56149522,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0101.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A30.bmp
+254,10011,6,1203.5492727,NA,NA,NA
+254,10011,7,1204.34483265,0.795559958307,1,1
+255,1010000,3,1205.36885132,NA,NA,NA
+255,1010000,4,1206.37706114,NA,NA,NA
+255,1010000,5,1206.57737336,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/153.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A161.bmp
+255,1010000,6,1207.07843162,NA,NA,NA
+255,1010000,7,1207.8842501,0.805818476176,-1,1
+255,NA,9,1208.89363788,NA,NA,NA
+255,NA,10,1363.95613305,155.062495165,1,NA
+256,10110100,3,1364.96563192,NA,NA,NA
+256,10110100,4,1365.9709619,NA,NA,NA
+256,10110100,5,1366.17106551,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A166.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/273.bmp
+256,10110100,6,1366.66981514,NA,NA,NA
+256,10110100,7,1367.37909884,0.709283700213,-1,1
+257,10001010,3,1368.40556142,NA,NA,NA
+257,10001010,4,1369.41123714,NA,NA,NA
+257,10001010,5,1369.62716719,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2118.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A208.bmp
+257,10001010,6,1370.1101714,NA,NA,NA
+257,10001010,7,1370.86359558,0.753424180424,-1,1
+258,1001111,3,1371.88645058,NA,NA,NA
+258,1001111,4,1372.89221574,NA,NA,NA
+258,1001111,5,1373.10154436,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A272.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1113.bmp
+258,1001111,6,1373.61259203,NA,NA,NA
+258,1001111,7,1374.31567868,0.703086647656,1,1
+259,10011,3,1375.36757547,NA,NA,NA
+259,10011,4,1376.37609655,NA,NA,NA
+259,10011,5,1376.57341528,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0107.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A302.bmp
+259,10011,6,1377.57306369,NA,NA,NA
+259,10011,7,1378.27175341,0.698689720986,1,1
+260,110001,3,1379.29773242,NA,NA,NA
+260,110001,4,1380.30331281,NA,NA,NA
+260,110001,5,1380.50359166,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/077.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A253.bmp
+260,110001,6,1381.00246887,NA,NA,NA
+260,110001,7,1381.75969275,0.757223875902,1,1
+261,1000010,3,1382.79279123,NA,NA,NA
+261,1000010,4,1383.80200671,NA,NA,NA
+261,1000010,5,1384.00247217,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/115.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A70.bmp
+261,1000010,6,1384.99842244,NA,NA,NA
+261,1000010,7,1385.8362278,0.837805356903,1,1
+262,100010,3,1386.86329458,NA,NA,NA
+262,100010,4,1387.86906854,NA,NA,NA
+262,100010,5,1388.06897454,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/063.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A294.bmp
+262,100010,6,1389.06841727,NA,NA,NA
+262,100010,7,1389.78833601,0.719918741364,-1,1
+263,1101,3,1390.81557364,NA,NA,NA
+263,1101,4,1391.82142863,NA,NA,NA
+263,1101,5,1392.02125911,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A118.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/054.bmp
+263,1101,6,1393.020432,NA,NA,NA
+263,1101,7,1393.67478033,0.654348330601,-1,1
+264,1000111,3,1394.69832055,NA,NA,NA
+264,1000111,4,1395.70842729,NA,NA,NA
+264,1000111,5,1395.9090823,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A365.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/118.bmp
+264,1000111,6,1396.90369072,NA,NA,NA
+264,1000111,7,1397.64253755,0.738846826891,-1,1
+265,10110010,3,1398.6811068,NA,NA,NA
+265,10110010,4,1399.68704722,NA,NA,NA
+265,10110010,5,1399.88665002,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/262.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A228.bmp
+265,10110010,6,1400.88573016,NA,NA,NA
+265,10110010,7,1401.67794687,0.792216710237,-1,1
+266,10101010,3,1402.70672799,NA,NA,NA
+266,10101010,4,1403.71311238,NA,NA,NA
+266,10101010,5,1403.91267889,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2115.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A342.bmp
+266,10101010,6,1404.41190806,NA,NA,NA
+266,10101010,7,1405.4158588,1.00395074475,1,1
+267,11100,3,1406.43972275,NA,NA,NA
+267,11100,4,1407.44764294,NA,NA,NA
+267,11100,5,1407.64797312,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A227.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/035.bmp
+267,11100,6,1408.65009698,NA,NA,NA
+267,11100,7,1409.62763647,0.977539488202,-1,1
+268,10010100,3,1410.65418961,NA,NA,NA
+268,10010100,4,1411.66004203,NA,NA,NA
+268,10010100,5,1411.859955,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A205.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2123.bmp
+268,10010100,6,1412.35937518,NA,NA,NA
+268,10010100,7,1413.1356265,0.776251316638,1,1
+269,10010011,3,1414.16081579,NA,NA,NA
+269,10010011,4,1415.16716903,NA,NA,NA
+269,10010011,5,1415.36715605,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/229.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A99.bmp
+269,10010011,6,1416.36535886,NA,NA,NA
+269,10010011,7,1417.27245293,0.907094072521,1,1
+270,100100,3,1418.30331171,NA,NA,NA
+270,100100,4,1419.3296907,NA,NA,NA
+270,100100,5,1419.50927544,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A93.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/033.bmp
+270,100100,6,1420.00864173,NA,NA,NA
+270,100100,7,1421.3288328,1.32019106999,-1,1
+271,1011111,3,1422.35243315,NA,NA,NA
+271,1011111,4,1423.3618279,NA,NA,NA
+271,1011111,5,1423.56200813,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A304.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/155.bmp
+271,1011111,6,1424.06346674,NA,NA,NA
+271,1011111,7,1424.92226135,0.858794604894,-1,1
+272,1111101,3,1425.95639445,NA,NA,NA
+272,1111101,4,1426.962641,NA,NA,NA
+272,1111101,5,1427.16259245,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A381.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/134.bmp
+272,1111101,6,1428.16188267,NA,NA,NA
+272,1111101,7,1428.92260744,0.760724772481,1,1
+273,1111111,3,1429.94669613,NA,NA,NA
+273,1111111,4,1430.95299034,NA,NA,NA
+273,1111111,5,1431.15287434,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A201.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/176.bmp
+273,1111111,6,1431.6522168,NA,NA,NA
+273,1111111,7,1433.27312532,1.6209085173,1,1
+274,100010,3,1434.29947278,NA,NA,NA
+274,100010,4,1435.30503594,NA,NA,NA
+274,100010,5,1435.50491957,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0113.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A362.bmp
+274,100010,6,1436.50432344,NA,NA,NA
+274,100010,7,1437.18560694,0.681283493424,-1,1
+275,10110101,3,1438.22860831,NA,NA,NA
+275,10110101,4,1439.23412601,NA,NA,NA
+275,10110101,5,1439.43413356,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A15.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/277.bmp
+275,10110101,6,1439.93354751,NA,NA,NA
+275,10110101,7,1440.61557306,0.682025541246,-1,1
+276,10000110,3,1441.63915361,NA,NA,NA
+276,10000110,4,1442.64882699,NA,NA,NA
+276,10000110,5,1442.84904535,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A46.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/285.bmp
+276,10000110,6,1443.8445553,NA,NA,NA
+276,10000110,7,1444.46261588,0.618060578825,-1,1
+277,1100010,3,1445.48778062,NA,NA,NA
+277,1100010,4,1446.49351865,NA,NA,NA
+277,1100010,5,1446.69344958,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/168.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A17.bmp
+277,1100010,6,1447.69268847,NA,NA,NA
+277,1100010,7,1448.45562399,0.762935517734,-1,1
+278,101,3,1449.48348231,NA,NA,NA
+278,101,4,1450.48995506,NA,NA,NA
+278,101,5,1450.68969388,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A192.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/08.bmp
+278,101,6,1451.18882003,NA,NA,NA
+278,101,7,1452.07350932,0.884689287632,1,1
+279,1111010,3,1453.10705215,NA,NA,NA
+279,1111010,4,1454.11302557,NA,NA,NA
+279,1111010,5,1454.31313431,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1122.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A310.bmp
+279,1111010,6,1454.81187184,NA,NA,NA
+279,1111010,7,1455.49142156,0.679549726556,-1,1
+280,10000111,3,1456.51467398,NA,NA,NA
+280,10000111,4,1457.52095096,NA,NA,NA
+280,10000111,5,1457.72078107,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A235.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/213.bmp
+280,10000111,6,1458.72011858,NA,NA,NA
+280,10000111,7,1459.28634506,0.566226485171,-1,1
+281,10111000,3,1460.3235776,NA,NA,NA
+281,10111000,4,1461.33042468,NA,NA,NA
+281,10111000,5,1461.53580658,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/276.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A314.bmp
+281,10111000,6,1462.52863541,NA,NA,NA
+281,10111000,7,1463.20368665,0.675051244936,-1,1
+282,111111,3,1464.24685668,NA,NA,NA
+282,111111,4,1465.25311752,NA,NA,NA
+282,111111,5,1465.45311554,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A133.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0110.bmp
+282,111111,6,1465.95293425,NA,NA,NA
+282,111111,7,1467.12646455,1.17353030352,1,1
+283,1010,3,1468.15221295,NA,NA,NA
+283,1010,4,1469.1584298,NA,NA,NA
+283,1010,5,1469.358316,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/05.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A204.bmp
+283,1010,6,1469.85786707,NA,NA,NA
+283,1010,7,1470.58237778,0.724510712214,-1,1
+284,10000101,3,1471.61526766,NA,NA,NA
+284,10000101,4,1472.6233323,NA,NA,NA
+284,10000101,5,1472.82370647,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A195.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/260.bmp
+284,10000101,6,1473.3247794,NA,NA,NA
+284,10000101,7,1474.15462387,0.829844474254,1,1
+285,111010,3,1475.18264461,NA,NA,NA
+285,111010,4,1476.1888149,NA,NA,NA
+285,111010,5,1476.38865674,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/060.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A355.bmp
+285,111010,6,1476.88799186,NA,NA,NA
+285,111010,7,1477.55897211,0.670980247378,-1,1
+286,1010001,3,1478.58463472,NA,NA,NA
+286,1010001,4,1479.59095019,NA,NA,NA
+286,1010001,5,1479.79100724,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/182.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A317.bmp
+286,1010001,6,1480.28989618,NA,NA,NA
+286,1010001,7,1481.01905203,0.729155843597,-1,1
+287,1110001,3,1482.0455894,NA,NA,NA
+287,1110001,4,1483.05199177,NA,NA,NA
+287,1110001,5,1483.25191646,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1110.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A144.bmp
+287,1110001,6,1483.75114857,NA,NA,NA
+287,1110001,7,1484.84445228,1.09330371497,1,1
+288,1011101,3,1485.88754862,NA,NA,NA
+288,1011101,4,1486.89319976,NA,NA,NA
+288,1011101,5,1487.09294995,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A28.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/124.bmp
+288,1011101,6,1488.09217967,NA,NA,NA
+288,1011101,7,1488.90073646,0.808556793971,1,0
+288,1011101,8,1488.92510379,NA,NA,NA
+289,11,3,1492.93722806,NA,NA,NA
+289,11,4,1493.94798665,NA,NA,NA
+289,11,5,1494.14793078,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0125.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A214.bmp
+289,11,6,1495.14249557,NA,NA,NA
+289,11,7,1496.17782313,1.03532756242,1,1
+290,1011001,3,1497.21122042,NA,NA,NA
+290,1011001,4,1498.22708756,NA,NA,NA
+290,1011001,5,1498.41745069,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1120.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A367.bmp
+290,1011001,6,1499.41671157,NA,NA,NA
+290,1011001,7,1500.54818126,1.13146968363,1,1
+291,110101,3,1501.57146777,NA,NA,NA
+291,110101,4,1502.58722749,NA,NA,NA
+291,110101,5,1502.78730323,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A298.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0108.bmp
+291,110101,6,1503.28666256,NA,NA,NA
+291,110101,7,1504.03422038,0.747557823095,-1,1
+292,10010111,3,1505.05980197,NA,NA,NA
+292,10010111,4,1506.06650459,NA,NA,NA
+292,10010111,5,1506.26612132,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A340.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/295.bmp
+292,10010111,6,1507.26546433,NA,NA,NA
+292,10010111,7,1508.10086463,0.835400300712,-1,1
+293,111110,3,1509.13457025,NA,NA,NA
+293,111110,4,1510.15042859,NA,NA,NA
+293,111110,5,1510.33998368,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A354.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0104.bmp
+293,111110,6,1510.839086,NA,NA,NA
+293,111110,7,1511.65897992,0.819893920896,1,1
+294,10101000,3,1512.69185733,NA,NA,NA
+294,10101000,4,1513.70232006,NA,NA,NA
+294,10101000,5,1513.90302347,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/248.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A382.bmp
+294,10101000,6,1514.89746544,NA,NA,NA
+294,10101000,7,1515.80822906,0.910763616339,-1,1
+295,1110100,3,1516.83220703,NA,NA,NA
+295,1110100,4,1517.83828749,NA,NA,NA
+295,1110100,5,1518.03828588,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A197.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/195.bmp
+295,1110100,6,1518.53754218,NA,NA,NA
+295,1110100,7,1519.35839739,0.820855210128,-1,1
+296,1000110,3,1520.38629604,NA,NA,NA
+296,1000110,4,1521.39255689,NA,NA,NA
+296,1000110,5,1521.59233897,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A308.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/189.bmp
+296,1000110,6,1522.59166511,NA,NA,NA
+296,1000110,7,1523.28402909,0.692363983253,-1,1
+297,10101100,3,1524.31738385,NA,NA,NA
+297,10101100,4,1525.32485126,NA,NA,NA
+297,10101100,5,1525.52542268,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A71.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/245.bmp
+297,10101100,6,1526.52682575,NA,NA,NA
+297,10101100,7,1527.51459846,0.987772708992,1,1
+298,1100100,3,1528.53926018,NA,NA,NA
+298,1100100,4,1529.55440324,NA,NA,NA
+298,1100100,5,1529.74477737,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A303.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/117.bmp
+298,1100100,6,1530.24389289,NA,NA,NA
+298,1100100,7,1530.80970509,0.56581219958,-1,1
+299,10010001,3,1531.83756048,NA,NA,NA
+299,10010001,4,1532.84393314,NA,NA,NA
+299,10010001,5,1533.04375115,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/258.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A183.bmp
+299,10010001,6,1533.54300672,NA,NA,NA
+299,10010001,7,1534.29682905,0.753822334533,-1,1
+300,110,3,1535.32114358,NA,NA,NA
+300,110,4,1536.32937357,NA,NA,NA
+300,110,5,1536.52968835,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A193.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/064.bmp
+300,110,6,1537.53564197,NA,NA,NA
+300,110,7,1538.2044584,0.668816430043,-1,1
+301,10110011,3,1539.22798945,NA,NA,NA
+301,10110011,4,1540.23685003,NA,NA,NA
+301,10110011,5,1540.44596967,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/241.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A358.bmp
+301,10110011,6,1541.44534677,NA,NA,NA
+301,10110011,7,1542.54990549,1.10455871801,-1,1
+302,11,3,1543.58247054,NA,NA,NA
+302,11,4,1544.5883281,NA,NA,NA
+302,11,5,1544.78832098,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/019.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A98.bmp
+302,11,6,1545.78749498,NA,NA,NA
+302,11,7,1546.72998517,0.942490193716,1,1
+303,100001,3,1547.75636966,NA,NA,NA
+303,100001,4,1548.76206481,NA,NA,NA
+303,100001,5,1548.96275245,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0124.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A33.bmp
+303,100001,6,1549.46183827,NA,NA,NA
+303,100001,7,1551.06864971,1.60681144176,1,1
+304,10011010,3,1552.09450957,NA,NA,NA
+304,10011010,4,1553.10045401,NA,NA,NA
+304,10011010,5,1553.30031565,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/216.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A218.bmp
+304,10011010,6,1553.79977836,NA,NA,NA
+304,10011010,7,1555.68886641,1.88908804742,1,1
+305,1011011,3,1556.71274759,NA,NA,NA
+305,1011011,4,1557.72054386,NA,NA,NA
+305,1011011,5,1557.92088431,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/158.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A373.bmp
+305,1011011,6,1558.42197923,NA,NA,NA
+305,1011011,7,1559.69438447,1.27240524317,1,1
+306,1111110,3,1560.71816703,NA,NA,NA
+306,1111110,4,1561.73357076,NA,NA,NA
+306,1111110,5,1561.9287649,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A220.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/198.bmp
+306,1111110,6,1562.42310843,NA,NA,NA
+306,1111110,7,1563.67801983,1.25491139237,1,1
+307,1001001,3,1564.70506901,NA,NA,NA
+307,1001001,4,1565.7112217,NA,NA,NA
+307,1001001,5,1565.91119589,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/119.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A121.bmp
+307,1001001,6,1566.9105103,NA,NA,NA
+307,1001001,7,1567.76381141,0.853301104595,1,1
+308,10111011,3,1568.79665142,NA,NA,NA
+308,10111011,4,1569.80227068,NA,NA,NA
+308,10111011,5,1570.00239885,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2112.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A13.bmp
+308,10111011,6,1570.50151657,NA,NA,NA
+308,10111011,7,1571.29535779,0.793841223029,-1,1
+309,1010101,3,1572.32032601,NA,NA,NA
+309,1010101,4,1573.32650657,NA,NA,NA
+309,1010101,5,1573.52652035,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A175.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1117.bmp
+309,1010101,6,1574.02581918,NA,NA,NA
+309,1010101,7,1574.8833141,0.857494921336,1,1
+310,10001,3,1575.91637703,NA,NA,NA
+310,10001,4,1576.92433388,NA,NA,NA
+310,10001,5,1577.12447891,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/086.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A229.bmp
+310,10001,6,1577.62554707,NA,NA,NA
+310,10001,7,1578.45609877,0.830551692765,-1,1
+311,1010010,3,1579.48346875,NA,NA,NA
+311,1010010,4,1580.49001886,NA,NA,NA
+311,1010010,5,1580.68988563,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/148.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A260.bmp
+311,1010010,6,1581.68897933,NA,NA,NA
+311,1010010,7,1582.58180915,0.89282981625,1,1
+312,10001111,3,1583.61479985,NA,NA,NA
+312,10001111,4,1584.62253012,NA,NA,NA
+312,10001111,5,1584.8226099,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A11.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2122.bmp
+312,10001111,6,1585.32352884,NA,NA,NA
+312,10001111,7,1586.10227834,0.778749495439,1,1
+313,10000001,3,1587.14366474,NA,NA,NA
+313,10000001,4,1588.15014409,NA,NA,NA
+313,10000001,5,1588.35005852,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/221.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A364.bmp
+313,10000001,6,1588.84833557,NA,NA,NA
+313,10000001,7,1590.64891351,1.80057794673,-1,1
+314,10001111,3,1591.67408155,NA,NA,NA
+314,10001111,4,1592.68027823,NA,NA,NA
+314,10001111,5,1592.88037084,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A209.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2104.bmp
+314,10001111,6,1593.37952266,NA,NA,NA
+314,10001111,7,1594.5674195,1.18789684802,1,1
+315,10110000,3,1595.59413909,NA,NA,NA
+315,10110000,4,1596.60082779,NA,NA,NA
+315,10110000,5,1596.80055707,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/26.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A246.bmp
+315,10110000,6,1597.30014774,NA,NA,NA
+315,10110000,7,1598.19838563,0.898237893052,1,1
+316,10101011,3,1599.22241273,NA,NA,NA
+316,10101011,4,1600.22856689,NA,NA,NA
+316,10101011,5,1600.42847692,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/252.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A58.bmp
+316,10101011,6,1600.92780948,NA,NA,NA
+316,10101011,7,1602.09408575,1.16627627276,1,1
+317,101011,3,1603.116782,NA,NA,NA
+317,101011,4,1604.12665043,NA,NA,NA
+317,101011,5,1604.32684533,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/065.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A319.bmp
+317,101011,6,1604.82205263,NA,NA,NA
+317,101011,7,1605.68502492,0.862972290153,1,1
+318,1010100,3,1606.70894643,NA,NA,NA
+318,1010100,4,1607.7242629,NA,NA,NA
+318,1010100,5,1607.92401895,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A2.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/177.bmp
+318,1010100,6,1608.42337827,NA,NA,NA
+318,1010100,7,1609.22134952,0.797971247113,1,1
+319,101101,3,1610.24582133,NA,NA,NA
+319,101101,4,1611.25719402,NA,NA,NA
+319,101101,5,1611.45211063,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A139.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/041.bmp
+319,101101,6,1612.45119553,NA,NA,NA
+319,101101,7,1613.2021186,0.750923068641,1,1
+319,NA,9,1614.2116963,NA,NA,NA
+319,NA,10,1622.01126676,7.79957046283,1,NA
+320,1000001,3,1623.01826305,NA,NA,NA
+320,1000001,4,1624.0244942,NA,NA,NA
+320,1000001,5,1624.22456481,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/147.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A170.bmp
+320,1000001,6,1624.72370416,NA,NA,NA
+320,1000001,7,1625.47195014,0.748245977127,-1,1
+321,10111,3,1626.49682524,NA,NA,NA
+321,10111,4,1627.50504973,NA,NA,NA
+321,10111,5,1627.71193149,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A237.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0127.bmp
+321,10111,6,1628.71134159,NA,NA,NA
+321,10111,7,1629.58006511,0.868723527426,-1,1
+322,1100000,3,1630.60365153,NA,NA,NA
+322,1100000,4,1631.61278818,NA,NA,NA
+322,1100000,5,1631.82046148,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/19.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A186.bmp
+322,1100000,6,1632.32002721,NA,NA,NA
+322,1100000,7,1633.16172649,0.841699274853,1,1
+323,10110000,3,1634.19491406,NA,NA,NA
+323,10110000,4,1635.20322031,NA,NA,NA
+323,10110000,5,1635.40353032,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2109.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A1.bmp
+323,10110000,6,1635.90442067,NA,NA,NA
+323,10110000,7,1636.72256689,0.818146222286,1,1
+324,10111001,3,1637.74681763,NA,NA,NA
+324,10111001,4,1638.7531749,NA,NA,NA
+324,10111001,5,1638.95310289,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2107.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A131.bmp
+324,10111001,6,1639.95257166,NA,NA,NA
+324,10111001,7,1640.77381805,0.821246398365,-1,1
+325,1010101,3,1641.79903815,NA,NA,NA
+325,1010101,4,1642.80513365,NA,NA,NA
+325,1010101,5,1643.00506201,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A97.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/180.bmp
+325,1010101,6,1643.50427468,NA,NA,NA
+325,1010101,7,1644.21166367,0.707388985218,1,1
+326,1111011,3,1645.25204221,NA,NA,NA
+326,1111011,4,1646.25865722,NA,NA,NA
+326,1111011,5,1646.47236662,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/125.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A82.bmp
+326,1111011,6,1646.95928932,NA,NA,NA
+326,1111011,7,1647.83456369,0.875274372549,-1,1
+327,101100,3,1648.86269771,NA,NA,NA
+327,101100,4,1649.8685626,NA,NA,NA
+327,101100,5,1650.06842644,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A126.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/034.bmp
+327,101100,6,1651.06761363,NA,NA,NA
+327,101100,7,1652.649943,1.58232936291,1,1
+328,10101100,3,1653.67685543,NA,NA,NA
+328,10101100,4,1654.6826195,NA,NA,NA
+328,10101100,5,1654.88261678,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A42.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/228.bmp
+328,10101100,6,1655.88183917,NA,NA,NA
+328,10101100,7,1656.93329931,1.05146013673,-1,0
+328,10101100,8,1656.96142124,NA,NA,NA
+329,10011101,3,1660.97381534,NA,NA,NA
+329,10011101,4,1661.98000543,NA,NA,NA
+329,10011101,5,1662.17999868,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A279.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2119.bmp
+329,10011101,6,1663.17911328,NA,NA,NA
+329,10011101,7,1663.88424056,0.705127279158,-1,1
+330,1010111,3,1664.91763968,NA,NA,NA
+330,1010111,4,1665.92321347,NA,NA,NA
+330,1010111,5,1666.1231455,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A106.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/120.bmp
+330,1010111,6,1667.12228137,NA,NA,NA
+330,1010111,7,1667.79150145,0.669220083539,-1,1
+331,111101,3,1668.81773893,NA,NA,NA
+331,111101,4,1669.82299779,NA,NA,NA
+331,111101,5,1670.02319122,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A87.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/09.bmp
+331,111101,6,1671.02291955,NA,NA,NA
+331,111101,7,1671.74238881,0.719469259828,1,1
+332,1100,3,1672.7662007,NA,NA,NA
+332,1100,4,1673.77737578,NA,NA,NA
+332,1100,5,1673.97258788,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A142.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0118.bmp
+332,1100,6,1674.9715463,NA,NA,NA
+332,1100,7,1676.20196315,1.23041684831,-1,1
+333,100000,3,1677.22555947,NA,NA,NA
+333,100000,4,1678.23605922,NA,NA,NA
+333,100000,5,1678.44129777,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/016.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A25.bmp
+333,100000,6,1678.93067685,NA,NA,NA
+333,100000,7,1679.89386519,0.963188341935,1,1
+334,101011,3,1680.91758689,NA,NA,NA
+334,101011,4,1681.9261879,NA,NA,NA
+334,101011,5,1682.12667573,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/057.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A65.bmp
+334,101011,6,1682.62761154,NA,NA,NA
+334,101011,7,1683.36051611,0.732904578297,1,1
+335,10,3,1684.40334005,NA,NA,NA
+335,10,4,1685.40881925,NA,NA,NA
+335,10,5,1685.60923375,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/018.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A269.bmp
+335,10,6,1686.60824717,NA,NA,NA
+335,10,7,1687.18367409,0.575426924959,1,1
+336,1001110,3,1688.20987307,NA,NA,NA
+336,1001110,4,1689.21606829,NA,NA,NA
+336,1001110,5,1689.41609931,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A320.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/12.bmp
+336,1001110,6,1689.91528595,NA,NA,NA
+336,1001110,7,1690.83603715,0.920751198777,1,1
+337,1000,3,1691.86913894,NA,NA,NA
+337,1000,4,1692.87543168,NA,NA,NA
+337,1000,5,1693.07570283,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/058.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A370.bmp
+337,1000,6,1694.07447171,NA,NA,NA
+337,1000,7,1695.2130726,1.13860089522,1,1
+338,1000000,3,1696.24239376,NA,NA,NA
+338,1000000,4,1697.24766728,NA,NA,NA
+338,1000000,5,1697.44837399,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1128.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A172.bmp
+338,1000000,6,1697.94788033,NA,NA,NA
+338,1000000,7,1699.30778342,1.35990309383,1,0
+338,1000000,8,1699.33237329,NA,NA,NA
+339,10010111,3,1703.34479489,NA,NA,NA
+339,10010111,4,1704.36016085,NA,NA,NA
+339,10010111,5,1704.56008555,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A66.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2111.bmp
+339,10010111,6,1705.559661,NA,NA,NA
+339,10010111,7,1706.17975121,0.620090211596,-1,1
+340,10101111,3,1707.20833545,NA,NA,NA
+340,10101111,4,1708.21334867,NA,NA,NA
+340,10101111,5,1708.41377528,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A352.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2108.bmp
+340,10101111,6,1708.91289776,NA,NA,NA
+340,10101111,7,1709.58963511,0.67673735063,-1,1
+341,10110,3,1710.61500955,NA,NA,NA
+341,10110,4,1711.62099176,NA,NA,NA
+341,10110,5,1711.82095496,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A57.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/031.bmp
+341,10110,6,1712.82015241,NA,NA,NA
+341,10110,7,1713.67305427,0.852901850609,-1,1
+342,10110110,3,1714.69705057,NA,NA,NA
+342,10110110,4,1715.70817395,NA,NA,NA
+342,10110110,5,1715.90319871,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A380.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/259.bmp
+342,10110110,6,1716.90230085,NA,NA,NA
+342,10110110,7,1717.89923807,0.996937219592,1,1
+343,101001,3,1718.92312108,NA,NA,NA
+343,101001,4,1719.93320069,NA,NA,NA
+343,101001,5,1720.13337505,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/0116.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A132.bmp
+343,101001,6,1721.12846815,NA,NA,NA
+343,101001,7,1721.98612586,0.857657702581,-1,1
+344,10011111,3,1723.0288211,NA,NA,NA
+344,10011111,4,1724.03446969,NA,NA,NA
+344,10011111,5,1724.23433682,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A222.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/275.bmp
+344,10011111,6,1724.73383803,NA,NA,NA
+344,10011111,7,1725.38007003,0.646231999199,-1,1
+345,10111100,3,1726.40329752,NA,NA,NA
+345,10111100,4,1727.41436004,NA,NA,NA
+345,10111100,5,1727.61420848,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A122.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/214.bmp
+345,10111100,6,1728.60875641,NA,NA,NA
+345,10111100,7,1729.58407415,0.975317744218,1,1
+346,1101001,3,1730.62028125,NA,NA,NA
+346,1101001,4,1731.62582901,NA,NA,NA
+346,1101001,5,1731.82583473,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1118.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A326.bmp
+346,1101001,6,1732.8249387,NA,NA,NA
+346,1101001,7,1733.87130935,1.04637065656,-1,1
+347,111010,3,1734.89976857,NA,NA,NA
+347,111010,4,1735.90613867,NA,NA,NA
+347,111010,5,1736.10586649,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/070.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A124.bmp
+347,111010,6,1736.60512059,NA,NA,NA
+347,111010,7,1737.23539013,0.630269538611,-1,1
+348,1010110,3,1738.26427574,NA,NA,NA
+348,1010110,4,1739.27049589,NA,NA,NA
+348,1010110,5,1739.47070435,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A285.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/178.bmp
+348,1010110,6,1740.47240255,NA,NA,NA
+348,1010110,7,1741.59861741,1.12621485585,-1,1
+349,10100010,3,1742.62120954,NA,NA,NA
+349,10100010,4,1743.63651538,NA,NA,NA
+349,10100010,5,1743.8365002,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/284.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A68.bmp
+349,10100010,6,1744.83568776,NA,NA,NA
+349,10100010,7,1746.11868075,1.28299298977,-1,1
+350,1100110,3,1747.14214948,NA,NA,NA
+350,1100110,4,1748.14866366,NA,NA,NA
+350,1100110,5,1748.3485253,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A213.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1103.bmp
+350,1100110,6,1749.34760104,NA,NA,NA
+350,1100110,7,1750.08534836,0.73774732025,1,1
+351,110110,3,1751.11443377,NA,NA,NA
+351,110110,4,1752.12063852,NA,NA,NA
+351,110110,5,1752.32046533,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A297.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/011.bmp
+351,110110,6,1753.31966352,NA,NA,NA
+351,110110,7,1754.20973302,0.890069500994,1,1
+352,10110101,3,1755.23920009,NA,NA,NA
+352,10110101,4,1756.24477425,NA,NA,NA
+352,10110101,5,1756.44475614,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A289.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/253.bmp
+352,10110101,6,1756.94390869,NA,NA,NA
+352,10110101,7,1757.94496823,1.00105954458,1,0
+352,10110101,8,1757.97546552,NA,NA,NA
+353,1110101,3,1761.98850452,NA,NA,NA
+353,1110101,4,1762.99413147,NA,NA,NA
+353,1110101,5,1763.19397111,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A103.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/183.bmp
+353,1110101,6,1763.69306426,NA,NA,NA
+353,1110101,7,1764.47764492,0.784580656822,-1,1
+354,10001110,3,1765.50398505,NA,NA,NA
+354,10001110,4,1766.51001382,NA,NA,NA
+354,10001110,5,1766.71016216,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A363.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/298.bmp
+354,10001110,6,1767.20924505,NA,NA,NA
+354,10001110,7,1768.24788543,1.03864038068,1,1
+355,1111,3,1769.27792333,NA,NA,NA
+355,1111,4,1770.28433669,NA,NA,NA
+355,1111,5,1770.48434498,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A125.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/061.bmp
+355,1111,6,1770.98344913,NA,NA,NA
+355,1111,7,1771.95214637,0.968697240445,1,1
+356,10111001,3,1772.97545049,NA,NA,NA
+356,10111001,4,1773.98154012,NA,NA,NA
+356,10111001,5,1774.18149341,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2110.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A112.bmp
+356,10111001,6,1775.18081589,NA,NA,NA
+356,10111001,7,1776.19382336,1.01300746777,-1,1
+357,1110110,3,1777.21738374,NA,NA,NA
+357,1110110,4,1778.22859438,NA,NA,NA
+357,1110110,5,1778.42369063,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A256.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/15.bmp
+357,1110110,6,1779.4228694,NA,NA,NA
+357,1110110,7,1780.36707466,0.944205262756,1,1
+358,11101,3,1781.39061195,NA,NA,NA
+358,11101,4,1782.39672137,NA,NA,NA
+358,11101,5,1782.59683818,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A332.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/072.bmp
+358,11101,6,1783.59584573,NA,NA,NA
+358,11101,7,1784.31998175,0.724136022065,-1,1
+359,10011000,3,1785.34666101,NA,NA,NA
+359,10011000,4,1786.35295925,NA,NA,NA
+359,10011000,5,1786.55196995,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/223.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A299.bmp
+359,10011000,6,1787.55244583,NA,NA,NA
+359,10011000,7,1788.55265664,1.00021080904,1,1
+360,1011010,3,1789.58570746,NA,NA,NA
+360,1011010,4,1790.59208196,NA,NA,NA
+360,1011010,5,1790.79203562,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/128.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A75.bmp
+360,1011010,6,1791.29142061,NA,NA,NA
+360,1011010,7,1792.33259326,1.04117265555,1,1
+361,1000001,3,1793.35784709,NA,NA,NA
+361,1000001,4,1794.36446466,NA,NA,NA
+361,1000001,5,1794.56411402,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/111.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A153.bmp
+361,1000001,6,1795.06255312,NA,NA,NA
+361,1000001,7,1796.41346621,1.35091309645,-1,1
+362,10010000,3,1797.43730377,NA,NA,NA
+362,10010000,4,1798.44332447,NA,NA,NA
+362,10010000,5,1798.64335036,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/281.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A150.bmp
+362,10010000,6,1799.14233902,NA,NA,NA
+362,10010000,7,1799.89963732,0.757298300668,-1,1
+363,111001,3,1800.94492094,NA,NA,NA
+363,111001,4,1801.95049253,NA,NA,NA
+363,111001,5,1802.15042639,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/089.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A238.bmp
+363,111001,6,1803.14987755,NA,NA,NA
+363,111001,7,1804.55658502,1.40670746709,-1,1
+364,1101100,3,1805.58546586,NA,NA,NA
+364,1101100,4,1806.59170617,NA,NA,NA
+364,1101100,5,1806.79187284,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A378.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1119.bmp
+364,1101100,6,1807.79091998,NA,NA,NA
+364,1101100,7,1808.6184122,0.827492211974,1,1
+365,10101110,3,1809.66107885,NA,NA,NA
+365,10101110,4,1810.66689901,NA,NA,NA
+365,10101110,5,1810.86680134,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A240.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/299.bmp
+365,10101110,6,1811.36607121,NA,NA,NA
+365,10101110,7,1812.27078185,0.90471064717,-1,1
+366,1110,3,1813.30443614,NA,NA,NA
+366,1110,4,1814.31956893,NA,NA,NA
+366,1110,5,1814.50995406,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A361.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/098.bmp
+366,1110,6,1815.00931412,NA,NA,NA
+366,1110,7,1815.74789441,0.738580290941,1,1
+367,10001000,3,1816.78618723,NA,NA,NA
+367,10001000,4,1817.79208255,NA,NA,NA
+367,10001000,5,1817.99202704,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2106.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A336.bmp
+367,10001000,6,1818.99128206,NA,NA,NA
+367,10001000,7,1819.80443706,0.813154997435,1,1
+368,1000000,3,1820.83215936,NA,NA,NA
+368,1000000,4,1821.8382204,NA,NA,NA
+368,1000000,5,1822.03849449,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/1121.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A53.bmp
+368,1000000,6,1822.53747326,NA,NA,NA
+368,1000000,7,1823.89468716,1.35721390371,-1,1
+369,10000011,3,1824.92332199,NA,NA,NA
+369,10000011,4,1825.92939916,NA,NA,NA
+369,10000011,5,1826.12951193,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/291.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A356.bmp
+369,10000011,6,1827.12882415,NA,NA,NA
+369,10000011,7,1828.15238966,1.0235655178,1,1
+370,10010100,3,1829.1853712,NA,NA,NA
+370,10010100,4,1830.19508014,NA,NA,NA
+370,10010100,5,1830.39582131,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A180.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/235.bmp
+370,10010100,6,1830.89658664,NA,NA,NA
+370,10010100,7,1831.75563642,0.859049775507,1,1
+371,111000,3,1832.79704151,NA,NA,NA
+371,111000,4,1833.82821522,NA,NA,NA
+371,111000,5,1834.00306207,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/017.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A349.bmp
+371,111000,6,1835.00460116,NA,NA,NA
+371,111000,7,1835.90899028,0.904389117568,-1,1
+372,1101001,3,1836.93289566,NA,NA,NA
+372,1101001,4,1837.94356039,NA,NA,NA
+372,1101001,5,1838.14388838,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/18.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A169.bmp
+372,1101001,6,1839.13804732,NA,NA,NA
+372,1101001,7,1840.0413197,0.903272379583,-1,1
+373,110001,3,1841.07425723,NA,NA,NA
+373,110001,4,1842.0895671,NA,NA,NA
+373,110001,5,1842.28958125,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/03.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A322.bmp
+373,110001,6,1842.77914181,NA,NA,NA
+373,110001,7,1843.83623623,1.05709442082,1,1
+374,10111100,3,1844.86109813,NA,NA,NA
+374,10111100,4,1845.86735604,NA,NA,NA
+374,10111100,5,1846.06732877,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A117.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/271.bmp
+374,10111100,6,1847.0664683,NA,NA,NA
+374,10111100,7,1848.09742276,1.03095446635,1,1
+375,101101,3,1849.12127132,NA,NA,NA
+375,101101,4,1850.1274559,NA,NA,NA
+375,101101,5,1850.32746346,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A177.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/084.bmp
+375,101101,6,1851.32666751,NA,NA,NA
+375,101101,7,1852.44433965,1.11767214024,1,1
+376,1010000,3,1853.47351893,NA,NA,NA
+376,1010000,4,1854.47975814,NA,NA,NA
+376,1010000,5,1854.6796612,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/138.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A323.bmp
+376,1010000,6,1855.17888488,NA,NA,NA
+376,1010000,7,1856.44102244,1.26213755968,-1,1
+377,10101001,3,1857.46959091,NA,NA,NA
+377,10101001,4,1858.47589099,NA,NA,NA
+377,10101001,5,1858.67596673,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/292.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A277.bmp
+377,10101001,6,1859.67512899,NA,NA,NA
+377,10101001,7,1861.62286815,1.94773915553,-1,1
+378,10010,3,1862.64664558,NA,NA,NA
+378,10010,4,1863.65294712,NA,NA,NA
+378,10010,5,1863.85309105,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/032.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A55.bmp
+378,10010,6,1864.85217999,NA,NA,NA
+378,10010,7,1865.93951653,1.08733653593,1,1
+379,100110,3,1866.97324377,NA,NA,NA
+379,100110,4,1867.97910133,NA,NA,NA
+379,100110,5,1868.17908909,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A278.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/048.bmp
+379,100110,6,1869.17832761,NA,NA,NA
+379,100110,7,1870.58127534,1.40294773366,1,1
+380,10000010,3,1871.60826147,NA,NA,NA
+380,10000010,4,1872.61437603,NA,NA,NA
+380,10000010,5,1872.81438981,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/2101.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A110.bmp
+380,10000010,6,1873.8136232,NA,NA,NA
+380,10000010,7,1874.66547541,0.851852204898,1,1
+381,10110100,3,1875.68924147,NA,NA,NA
+381,10110100,4,1876.69577655,NA,NA,NA
+381,10110100,5,1876.89561472,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A333.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/29.bmp
+381,10110100,6,1877.39476543,NA,NA,NA
+381,10110100,7,1878.2432073,0.848441864553,-1,1
+382,101000,3,1879.28988482,NA,NA,NA
+382,101000,4,1880.29590039,NA,NA,NA
+382,101000,5,1880.49933698,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/045.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A283.bmp
+382,101000,6,1881.4948154,NA,NA,NA
+382,101000,7,1882.0740127,0.579197290499,-1,1
+383,10111000,3,1883.10158688,NA,NA,NA
+383,10111000,4,1884.10777514,NA,NA,NA
+383,10111000,5,1884.30792531,NA,NA,\\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/256.bmp \\isilon1\homefolders\rkuplicki\Documents\StimTool\DotProbe\media/images/UCLA/A109.bmp
+383,10111000,6,1885.30696438,NA,NA,NA
+383,10111000,7,1886.10232967,0.795365280734,-1,1
+383,NA,9,1887.11247233,NA,NA,NA
+383,NA,10,1916.62124437,29.5087720392,1,NA

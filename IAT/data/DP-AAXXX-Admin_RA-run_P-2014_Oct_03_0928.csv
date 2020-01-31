@@ -1,0 +1,4 @@
+Original File Name:,T:\BehavioralTasks\StimTool\DotProbe\data/DP-AAXXX-Admin_RA-run_P-2014_Oct_03_0928.csv,Time:,2014_Oct_03_0928,Parameter File:,T:\BehavioralTasks\StimTool\DotProbe\T1000_DP_ScheduleP.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('TRIAL_ONSET', 3), ('CUE_ONSET', 4), ('IMAGE_ONSET', 5), ('TARGET_ONSET', 6), ('RESPONSE', 7), ('ERROR_DELAY', 8), ('BREAK_ONSET', 9), ('BREAK_END', 10), ('TASK_END', 99)],Trial Types are coded as follows: 8 bits representing [valence neut/neg/pos] [target_orientation H/V] [target_side left/right] [duration .5/1] [valenced_image left/right] [cue_orientation H/V] [cue_side left/right]
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,0.00511952462148,NA,NA,NA
+NA,NA,2,9.92645467787,9.92133515325,NA,NA

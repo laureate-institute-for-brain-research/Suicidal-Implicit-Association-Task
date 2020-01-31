@@ -1,0 +1,4 @@
+Original File Name:,T:\BehavioralTasks\StimTool\Baseline\data/PB-AAXXX-Admin_RA-run_1-2014_Oct_01_1059.csv,Time:,2014_Oct_01_1059,Parameter File:,T:\BehavioralTasks\StimTool\Baseline\T1000_Physio_Baseline_Schedule1.csv,Event Codes:,[('INSTRUCT_ONSET', 1), ('TASK_ONSET', 2), ('IMAGE_ONSET', 3), ('TASK_END', 99)]
+trial_number,trial_type,event_code,absolute_time,response_time,response,result
+NA,NA,1,0.00506233141641,NA,NA,NA
+NA,NA,99,4.83421084567,NA,NA,NA
