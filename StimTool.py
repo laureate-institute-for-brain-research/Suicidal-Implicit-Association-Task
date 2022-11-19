@@ -4,7 +4,7 @@ prefs.general['audioLib'] = [u'pyo', u'pygame']
 #prefs.general[u'audioDriver'] = [u'ASIO4ALL', u'ASIO', u'Audigy']
 from pygame import pypm #need to load this before loading psychopy.sound when using pyo 
 from psychopy import core, visual, gui, data, misc, event, sound, logging #, microphone
-import time, numpy, random, datetime, sys, os, copy, VMeter, pyo, csv, ast, StimToolLib, threading, pygame.pypm, CloseAudio
+import time, numpy, random, datetime, sys, os, copy, pyo, csv, ast, StimToolLib, threading, pygame.pypm
 
 import IAT.IAT
 
@@ -60,7 +60,7 @@ def run_task_until_success(task, session_params):
                 if status != -1: #-1 is returned when a task fails (e.g. user hits escape to quit)
                     return switched
             else:
-                print 'QUITTING!'
+                print('QUITTING!')
                 return True #say switched task->will start free mode, one more escape to quit
         
 
@@ -73,10 +73,9 @@ def reset_flags():
 
 if __name__ == '__main__':
     #CD.start_camera()
-    StimToolLib.open_and_close_vmeter() #this hack seems to fix a problem with the vMeter not responding the first time it's used after logging in...
     reset_flags()
 
-    modules = mod_mapping.keys()
+    modules = []
     modules.append('SKIP')
     modules.append('SKIP TO')
     modules.sort() #sorted alphabetically so tasks are easier to find
@@ -92,7 +91,7 @@ if __name__ == '__main__':
     if myDlg.OK:  # then the user pressed OK
         thisInfo = myDlg.data
     else:
-        print 'QUIT!'
+        print('QUIT!')
         core.quit()#the user hit cancel so exit 
     sid = thisInfo[0].replace('\'', '.')
     raID = thisInfo[1].replace('\'', '.') #prevent problems with storing/reading strings that have single quotes in them
@@ -100,9 +99,9 @@ if __name__ == '__main__':
         StimToolLib.write_var_to_file('Default.params', 'last_subject', sid)
         StimToolLib.write_var_to_file('Default.params', 'last_admin', raID)
     except:
-        print "Could not store last subject and administrator--most likely because the user doesn't have write permission to the StimTool directory."
+        print("Could not store last subject and administrator--most likely because the user doesn't have write permission to the StimTool directory.")
     session_params = StimToolLib.get_var_dict_from_file('Default.params', {'SID':sid, 'raID':raID}) #initialize default session parameters--SID and raID always come from the dialogue box
-    session_params['vMeter'] = StimToolLib.try_to_open_vMeter()
+    task_list_idx = 2
     session_params['admin_id'] = raID
     
     
@@ -149,7 +148,7 @@ if __name__ == '__main__':
                     thisInfo = myDlg.data
                     idx = order.index(thisInfo[0]) #this won't work if there are two runs of the same task with the same run---but that shouldn't happen anyway
                 else:
-                    print 'QUITTING!'
+                    print('QUITTING!')
                     break
             else: #advance to the next one
                 idx = idx + 1
@@ -169,7 +168,7 @@ if __name__ == '__main__':
                 thisInfo = myDlg.data
                 status = mod_mapping[thisInfo[0]].run(session_params, {})
             else:
-                print 'QUIT!'
+                print('QUIT!')
                 break #core.quit()
     CD.stop_capture()
     #CloseAudio.run() #seems to close the audio server so the user doesn't have to hit the stop button...?

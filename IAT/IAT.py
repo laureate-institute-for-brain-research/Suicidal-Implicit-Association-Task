@@ -152,7 +152,7 @@ def run(session_params, run_params):
     g.run_params = StimToolLib.get_var_dict_from_file(os.path.dirname(__file__) + '/IAT.Default.params', {})
     g.run_params.update(run_params)
     
-    print os.path.exists(os.path.dirname(__file__) + '/IAT.Default.params')
+    #print os.path.exists(os.path.dirname(__file__) + '/IAT.Default.params')
     try:
         run_try()
         g.status = 0
@@ -217,7 +217,7 @@ def run_try():
         if myDlg.OK:  # then the user pressed OK
             thisInfo = myDlg.data
         else:
-            print 'QUIT!'
+            print('QUIT!')
             return -1#the user hit cancel so exit 
         g.run_params['run'] = thisInfo[0]
     StimToolLib.general_setup(g)
@@ -239,7 +239,7 @@ def run_try():
     right_words = []
     correct_words = []
 
-    print schedule
+    print(schedule)
     for idx,line in enumerate(schedule):
     
         if idx == 0:
@@ -275,7 +275,7 @@ def run_try():
     #fileName = os.path.join(os.path.dirname(__file__), 'data/' + g.prefix +  '.csv')
     g.output = open(fileName, 'w')
     
-    sorted_events = sorted(event_types.iteritems(), key=operator.itemgetter(1))
+    sorted_events = sorted(event_types.items(), key=lambda item: item[1])
     g.output.write('Administrator:,' + g.session_params['admin_id'] + ',Original File Name:,' + fileName + ',Time:,' + start_time + ',Parameter File:,' +  schedule_file + ',Event Codes:,' + str(sorted_events) + ',Trial Types are coded as follows: 8 bits representing [valence neut/neg/pos] [target_orientation H/V] [target_side left/right] [duration .5/1] [valenced_image left/right] [cue_orientation H/V] [cue_side left/right]\n')
     g.output.write('trial_number,trial_type,event_code,absolute_time,response_time,response,result\n')
     StimToolLib.task_start(StimToolLib.IAT_CODE, g)

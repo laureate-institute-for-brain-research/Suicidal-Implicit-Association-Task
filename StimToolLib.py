@@ -1,7 +1,7 @@
 
 
 from psychopy import event, core, visual, gui, sound, monitors, data#, microphone
-import csv, os, ctypes, ast, numpy, VMeter, pyo, sys, logging
+import csv, os, ctypes, ast, numpy, pyo, sys, logging
 from shutil import move
 # import CameraDriver.CameraDriver as CD
 from psychopy.hardware import joystick
@@ -42,7 +42,7 @@ IAT_CODE = 30
 EFT_CODE = 31
 STING_CODE = 35
 TASK_END = 99
-parallel_writer = ctypes.windll.LoadLibrary('inpout32.dll')
+#parallel_writer = ctypes.windll.LoadLibrary('./inpout32.dll')
 
 class GlobalVars:
     #This class will contain all module specific global variables
@@ -78,32 +78,40 @@ def general_setup(g):
     g.clock = core.Clock()
    
 def verify_parallel(session_params):
-    address = session_params['parallel_port_address']
-    while True:
-        if check_one_parallel_address(address):
-            break #seems to work
-        else:
-            myDlg = gui.Dlg(title="Parallel Port Address")
-            myDlg.addText('The parallel port check failed.  Verify the appropriate address in hardware manager, and enter it below.  You may also want to change this in the appropriate .params file.')
-            myDlg.addField('Address', initial='0x' + format(address, '02x'))
-            myDlg.show()  # show dialog and wait for OK or Cancel
-            thisInfo = myDlg.data
-            address = ast.literal_eval(thisInfo[0])
-            session_params['parallel_port_address'] = address    
+    """
+    deprecated
+    """
+    # address = session_params['parallel_port_address']
+    # while True:
+    #     if check_one_parallel_address(address):
+    #         break #seems to work
+    #     else:
+    #         myDlg = gui.Dlg(title="Parallel Port Address")
+    #         myDlg.addText('The parallel port check failed.  Verify the appropriate address in hardware manager, and enter it below.  You may also want to change this in the appropriate .params file.')
+    #         myDlg.addField('Address', initial='0x' + format(address, '02x'))
+    #         myDlg.show()  # show dialog and wait for OK or Cancel
+    #         thisInfo = myDlg.data
+    #         address = ast.literal_eval(thisInfo[0])
+    #         session_params['parallel_port_address'] = address   
+    pass
     
 def check_one_parallel_address(address):
-    for i in range(256):
-        parallel_writer.Out32(address, i)
-        read_val = parallel_writer.Inp32(address)
-        if not i == read_val:
-            return False
-    parallel_writer.Out32(address, 0) #reset to 0
-    print 'PARALLEL PORT SUCCESS'
+    """
+    deprecated
+    """
+    # for i in range(256):
+    #     parallel_writer.Out32(address, i)
+    #     read_val = parallel_writer.Inp32(address)
+    #     if not i == read_val:
+    #         return False
+    # parallel_writer.Out32(address, 0) #reset to 0
+    #print 'PARALLEL PORT SUCCESS'
     return True
     
     
 def write_parallel(port, value):
-    parallel_writer.Out32(port, value)# 0x3000, value)
+    pass
+    #parallel_writer.Out32(port, value)# 0x3000, value)
     #wait a short time
     
 def task_start(value, g): #g should have a clock (to reset) 
@@ -253,7 +261,7 @@ def run_instructions(instruct_schedule_file, g):
 
 def load_inst_sounds(slides,directory,g):
     isounds=[]
-    print slides
+    #print slides
     for i in range(len(slides)):
         slide=slides[i]
         if slide[1] == 'None':
@@ -355,13 +363,13 @@ def do_one_slide(slide, isound, directory, g):
         joystick_not_used=True
                 
     if k == None or k == []: #event timeout
-        print ''
+        print('')
     elif k[0] == 'z':
         retval = 1
     elif k[0] == 'a':
         retval = -1
     elif k[0] == g.session_params['right']:
-        print k[0]
+        print(k[0])
         retval = 1
     elif k[0] == g.session_params['left']:
         retval = -1
@@ -425,7 +433,7 @@ def do_one_slide_keyselect(slide, directory, g):
             kl = [advance_key, 'escape', 'z', 'a']
         if wait_z: #only advance for a 'z'
             kl = ['z', 'a']
-        print advance_key
+        #print advance_key
         k = event.waitKeys(keyList = kl, maxWait=advance_time)
     if s: #stop the sound if it's still playing
         s.stop()
@@ -479,14 +487,14 @@ def read_trial_structure(schedule_file, win, msg):
             d1.append(float(j)) #convert elements into floats
         durations.append(d1)
         extras.append(i[3].split())
-    print durations
+    #print durations
     stimuli = map(list, zip(*stimuli)) #convert lists like [[1,2],[2,3],[3,4]] into [[1,2,3],[2,3,4]]
     durations = map(list, zip(*durations))
     extras = map(list, zip(*extras))
-    print types
-    print stimuli
-    print durations
-    print extras
+    #print types
+    #print stimuli
+    #print durations
+    #print extras
     return types,stimuli,durations,extras
         
 
@@ -653,9 +661,9 @@ def get_var_dict_from_file(filename, default_dict):
         try:
             default_dict[these_vals[0]] = ast.literal_eval(these_vals[1]) #convert numbers and bools (possibly also dictionaries and lists)
         except ValueError:
-            print default_dict
-            print these_vals[0]
-            print these_vals[1]
+            #print default_dict
+            #print these_vals[0]
+            #print these_vals[1]
             default_dict[these_vals[0]] = these_vals[1] #leave others as strings
                 
     fin.close()
@@ -706,7 +714,8 @@ def write_var_to_files(filenames, var, value): #used to write the same value to 
         write_var_to_file(f, var, value)
 
 def write_var_to_file(filename, var, value):
-    if isinstance(value, basestring):
+    # set basesstring to str to workn in python3
+    if isinstance(value, str):
         value = '\'' + value + '\'' #add single quotes so when it gets written to a file and then read, it will still be a string
     if get_var_from_file(filename, var) == None: #either file DNE, or variable isn't in the file
         fout = open(filename, 'a')
@@ -726,7 +735,6 @@ def write_var_to_file(filename, var, value):
     fin.close()
     fout.close()
     move(fout_name, filename)
-    
     
        
 def convert_run_args_to_dict(run_args):
@@ -805,61 +813,15 @@ def redirect_output(session_params):
         os.makedirs(session_params['output_dir'])
     prefix = session_params['output_dir'] + session_params['SID'] + '_' + data.getDateStr() + '.txt'
     
-    sys.stdout = open(prefix, 'a', 0)
-    sys.stderr = open(prefix, 'a', 0)
+    sys.stdout = open(prefix, 'a')
+    sys.stderr = open(prefix, 'a')
  
 def close_output():
     sys.stdout.close()
     sys.stderr.close()
         
-def contains_start_touch(vMeter_input):
-    #check to see if the events contain a start touch (127 sent over channel 17)
-    for i in vMeter_input:
-        if i[0][1] == 17 and i[0][2] == 127:
-            return True
-    return False
-def contains_end_touch(vMeter_input):
-    #check to see if the events contain a start touch (127 sent over channel 17)
-    for i in vMeter_input:
-        if i[0][1] == 17 and i[0][2] == 0:
-            return True
-    return False
 
-def wait_for_tap(vm):
-    #this function will only work if config 120 is set (making 127 be sent on touch, 0 on release)
-    vm.clear() #clear lights and events
-    vm.read_multiple_events() 
-    while True:
-        if event.getKeys(["escape"]):
-            raise QuitException()
-        vMeter_input = vm.read_multiple_events()
-        if not vMeter_input:
-            continue
-        has_start = contains_start_touch(vMeter_input)  
-        has_end = contains_end_touch(vMeter_input)
-        if has_start and has_end:
-            error_popup('vMeter output returned both start and end at the same time! THIS SHOULD NOT HAPPEN')
-        if has_start:
-            return #Only start on the beginning of a touch--not a release
   
-def open_and_close_vmeter():
-    #this is an attempt to hack a workaround for some problems with the pygame.pypm library that's used to communicate with the vMeter...
-    #specifically.....
-    VMeter.print_devices()
-    try:
-        vMeter = VMeter.VMeter()
-        vMeter.close()
-    except:
-        print 'could not open/close vMeter'
-def try_to_open_vMeter():
-    #this is an attempt to hack a workaround for some problems with the pygame.pypm library that's used to communicate with the vMeter...
-    #specifically.....
-    VMeter.print_devices()
-    try:
-        v = VMeter.VMeter()
-        return v
-    except:
-        return None
 def get_exam_number(session_params):
     g = GlobalVars()
     g.session_params = session_params
@@ -883,21 +845,5 @@ def get_exam_number(session_params):
     g.output.write(exam)
     g.output.close()
     
-def check_retry_vMeter(g):
-    while True:
-        if g.session_params['vMeter']:
-            return
-        myDlg = gui.Dlg(title='vMeter Test')
-        myDlg.addText('vMeter not found.  Reconnect it and OK to retry, or Cancel to abort')
-        myDlg.show()  # show dialog and wait for OK or Cancel
-        if myDlg.OK:  # then the user pressed OK--try to connect vMeter
-            open_and_close_vmeter()
-            
-            g.session_params['vMeter'] = try_to_open_vMeter()
-        else:
-            raise QuitException()
-        
-        
-        
-  
+
   
